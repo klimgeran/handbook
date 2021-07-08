@@ -2,6 +2,8 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+{:toc}
+
 ## Preface
 
 Before we begin, it’s important to define an anchor. While a purpose or a mission can change with the captain or the tides, an anchor is what keeps us grounded. In times of turmoil, frustration, or uncertainty one can always return to their anchor to realign them as to why they’re here.
