@@ -2,6 +2,7 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+* Table of Contents
 {:toc}
 
 ## Preface
