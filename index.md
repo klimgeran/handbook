@@ -62,28 +62,6 @@ In **Symbol**, quadratic funding is able to solve a key challenge we have in the
 
 We think syndicates are a powerful form of self-organization that are successful because they incentivize participants to put collective successes above their own, while enforcing a commitment to the same principles that made blockchain successful: disruption, decentralization and transparency. Paired with quadratic funding, we think syndicates empower a vibrant, self-organizing community of contributors and collaborators that are all aligned in a common mission: **Symbol**.  
 
-## References
-
-- Buterin, Vitalik, Zoë Hitzig, and E. Glen Weyl. “Liberal Radicalism: A Flexible Design for Philanthropic Matching Funds.” Available at SSRN 3243656, 2018. https://www.gwern.net/docs/economics/2018-buterin.pdf.
-
-- Christensen, Clayton M., Michael E. Raynor, and Rory McDonald. “What Is Disruptive Innovation?” Harvard Business Review, December 2015. https://hbr.org/2015/12/what-is-disruptive-innovation.
-
-- github.com/flashbots. “Flashbots.” Software repository, 2021. https://github.com/flashbots/pm.
-
-- Ichiba Hotchkiss, Griffin, Andrei Maiboroda, and Paul Wackerow. “ETHEREUM VIRTUAL MACHINE (EVM).” Docs. ethereum-org-website/src/content/developers/docs/evm/index.md. Accessed July 7, 2021. https://ethereum.org/en/developers/docs/evm/.
-
-- Puranam, Phanish, and Dorthe Døjbak Håkonsson. “Valve’s Way.” Journal of Organization Design 4, no. 2 (June 2015): 2–4. https://www.researchgate.net/publication/282395703\_Valve%27s\_Way.
-
-- Shaw, Aaron, and Benjamin Mako Hill. “Laboratories of Oligarchy? How the Iron Law Extends to Peer Production.” Arxiv, 2014. https://arxiv.org/ftp/arxiv/papers/1407/1407.0323.pdf.
-
-- Srinivasan, Balaji S. “Yes, You May Need a Blockchain.” Blog post. Balaji S. Srinivasan, May 14, 2019. https://balajis.com/yes-you-may-need-a-blockchain/.
-
-- arweave.org. “Store Data, Permanently.” Home page, 2020. https://www.arweave.org/.
-
-- Vorick, David, Chris Schinnerl, Marcin Swieczkowski, PJ Brone, and Ivaylo Novakov. “Decentralized Internet for a Free Future.” Home page. Skynet, 2021. https://siasky.net/.
-
-- Wu, Lingfei, Wang Dashun, and James A. Evans. “Large Teams Develop and Small Teams Disrupt Science and Technology.” Nature 566 (2019): 378–82. https://par.nsf.gov/servlets/purl/10109889.
-
 ## The Space Pirate’s Code
 
 Even in the most lawless of systems there was a common agreement for operation. There is an honor among thieves. Pirates, despite being ruffians, managed to find a way to reduce conflict among themselves while maximizing profits. They used a democratic system of election and a charter that laid out the rules of operation before any voyage: the division of plunder; division of labor; and division of responsibility. They outlined prohibited activities and their punishments; rules for the safety of the ship and crew; and incentives and bonuses for productive members.
