@@ -1,5 +1,7 @@
 # Symbol²: Reflections of Space Pirates
 
+![Ship cover](images/ship%20cover%20blank.png)
+
 ## Preface
 
 Before we begin, it’s important to define an anchor. While a purpose or a mission can change with the captain or the tides, an anchor is what keeps us grounded. In times of turmoil, frustration, or uncertainty one can always return to their anchor to realign them as to why they’re here.
@@ -36,6 +38,8 @@ In business theory, disruption is defined as *innovation that creates a new mark
 
 It’s well known that centralized structures are often at odds with the development of decentralized systems. The introduction of Bitcoin was in direct response to the systematic failures of a centralized authority, and since then the distribution of power has remained a design goal of all blockchain networks to date.
 
+![Symbol Venn diagram](images/Symbol%20Venn%20Diagram%201.png)
+
 Regardless, centralization naturally occurs after a period of time[^7], whether as a byproduct of specialization or economies of scale. This has proven to be true in both proof-of-work (through mining pools, hashrate concentration and specialized hardware) and proof-of-stake (through concentration of wealth and concentration of validator infrastructure). Thus, resilience in blockchain largely comes from ensuring parties in the ecosystem are incentivized to *collaborate* rather than collude. This is the basis of game theory and a mastery of this is key to successful system design.
 
 In **Symbol**, we achieve collaboration through the concept of *cabals.* Traditionally, a syndicate is a self-organizing group of individuals, corporations or companies that work together to achieve a common mission. Syndicates are not a new concept in cryptocurrency — non-profits like the Ethereum Foundation and Tezos Foundation can be informally classified as syndicates; as well as decentralized autonomous organizations (DAOs) and informal working or research groups. Flashbots[^8] — the research and development organization that focuses on miner-extractable value (MEV) in DeFi — follows the *pirate hacker collective*, an informal syndicate based on the pirate cooperative. Syndicates can even be observed external to cryptocurrency: Valve, a multi-billion dollar entertainment and hardware company follows a non-hierarchical design (“Flatland”) with no middle management or formal leadership. [^9]
@@ -49,6 +53,8 @@ Today, we can observe three naturally formed syndicates: infrastructure syndicat
 At the heart of this is the *ambassador* — the *voice* of the syndicates. Ambassadors are quickly identified by their communication and relationship skills. They work to bring about coordination of chaos and champion the ideas of their representative communities. They’re often translators, writers and educators — in some protocols, they’re ‘ecosystem representatives’; in others, ‘network coordinators’. In **Symbol**, ambassadors are able to be both elected and financed through delegated harvesting. If, at any point, communities feel that their elected ambassadors aren’t performing, they can delegate to a new ambassador.
 
 In parallel to delegated harvesting, there is another concept that can be applied to the system at large: quadratic funding. First proposed in *Liberal Radicalism* by Buterin, Hitzing and Weyl,[^10] quadratic funding seeks to apply the concept of quadratic voting to the funding of public goods. In economics, a public good is defined as a good that is *both non-excludable and non-rivalrous***.** Non-excludable means that an individual cannot be excluded from use; and non-rivalrous means that use by one individual does not reduce the availability of the good to others. Some commonly referenced examples of public goods are open-source software (such as blockchain protocols; the internet; or operating systems); free education (such as newsletters; podcasts; or technical documentation); and free services (such as public television and radio).
+
+![Syndicate matching](images/Syndicate%20Matching%20dark.png)
 
 In **Symbol**, quadratic funding is able to solve a key challenge we have in the financing of projects: how do you determine which project would benefit the most *individuals*? It achieves this by enabling individuals to ‘buy for their vote’ on what projects should be funded next and amplifies donations with a matching syndicate dedicated to the funding of public goods. There are diminishing returns for additional votes, which helps decentralize power away from venture capital firms, large whales and central power brokers. In summary, the number* of individual contributions matters more than the total amount funded by an individual.
 
