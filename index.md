@@ -1,8 +1,11 @@
 # Symbol²: Reflections of Space Pirates
+{:.no_toc}
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
-* Table of Contents
+**Table of Contents**:
+
+* Contents
 {:toc}
 
 ## Preface
