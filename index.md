@@ -1,4 +1,4 @@
-# Symbol^2: Reflections of Space Pirates
+# Symbol²: Reflections of Space Pirates
 
 ## Preface
 
