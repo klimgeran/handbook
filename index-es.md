@@ -3,7 +3,7 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
-Traducción al español de Alexis Trujillo R. | NEM Show Host
+Traducción al español de Alexis Trujillo R. (NEM Show Host)
 
 **Tabla de Contenidos**:
 
