@@ -46,7 +46,7 @@ In business theory, disruption is defined as *innovation that creates a new mark
 It’s well known that centralized structures are often at odds with the development of decentralized systems. The introduction of Bitcoin was in direct response to the systematic failures of a centralized authority, and since then the distribution of power has remained a design goal of all blockchain networks to date.
 
 <div style="float: right; width: 50%">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="50%" alt="Symbol Venn diagram"/>
+<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </div>
 
 Regardless, centralization naturally occurs after a period of time[^7], whether as a byproduct of specialization or economies of scale. This has proven to be true in both proof-of-work (through mining pools, hashrate concentration and specialized hardware) and proof-of-stake (through concentration of wealth and concentration of validator infrastructure). Thus, resilience in blockchain largely comes from ensuring parties in the ecosystem are incentivized to *collaborate* rather than collude. This is the basis of game theory and a mastery of this is key to successful system design.
@@ -64,7 +64,7 @@ At the heart of this is the *ambassador* — the *voice* of the syndicates. Amba
 In parallel to delegated harvesting, there is another concept that can be applied to the system at large: quadratic funding. First proposed in *Liberal Radicalism* by Buterin, Hitzing and Weyl,[^10] quadratic funding seeks to apply the concept of quadratic voting to the funding of public goods. In economics, a public good is defined as a good that is *both non-excludable and non-rivalrous*. Non-excludable means that an individual cannot be excluded from use; and non-rivalrous means that use by one individual does not reduce the availability of the good to others. Some commonly referenced examples of public goods are open-source software (such as blockchain protocols; the internet; or operating systems); free education (such as newsletters; podcasts; or technical documentation); and free services (such as public television and radio).
 
 <div style="float: right; width: 50%">
-<img src="images/Syndicate%20Matching%20dark.png" width="50%" alt="Syndicate matching"/>
+<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </div>
 
 In **Symbol**, quadratic funding is able to solve a key challenge we have in the financing of projects: how do you determine which project would benefit the most *individuals*? It achieves this by enabling individuals to ‘buy for their vote’ on what projects should be funded next and amplifies donations with a matching syndicate dedicated to the funding of public goods. There are diminishing returns for additional votes, which helps decentralize power away from venture capital firms, large whales and central power brokers. In summary, the number of individual contributions matters more than the total amount funded by an individual.
