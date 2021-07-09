@@ -1,6 +1,5 @@
 # Symbol²: Reflections of Space Pirates
 {:.no_toc}
-{::options parse_block_html="true" /}
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
