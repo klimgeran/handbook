@@ -20,14 +20,19 @@
           {% endif %}
 
           <div style="float: right" text-color="white">
-            <a href="index.html" title="English">EN</a> |
-            <a href="index-ja.html" title="日本語">日本</a> |
-            <a href="index-zh.html" title="中文">中文</a> |
-            <a href="index-es.html" title="Español">ES</a> |
-            <a href="index-it.html" title="Italiano">IT</a> |
-            <a href="index-pt.html" title="Português">PT</a> |
-            <a href="index-ru.html" title="русский">RU</a> |
-            <a href="index-id.html" title="Bahasa Indonesia">ID</a>
+            <div class="dropdown">
+              <button class="dropbtn">Language 🌐</button>
+              <div class="dropdown-content">
+                <a href="index.html">English</a>
+                <a href="index-ja.html">日本語</a>
+                <a href="index-zh.html">中文</a>
+                <a href="index-es.html">Español</a>
+                <a href="index-it.html">Italiano</a>
+                <a href="index-pt.html">Português</a>
+                <a href="index-ru.html">русский</a>
+                <a href="index-id.html">Bahasaonesia</a>
+              </div>
+            </div>
           </div>
 
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
