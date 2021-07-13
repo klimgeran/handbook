@@ -4,10 +4,10 @@
 ![Ship cover](images/ship%20cover%20blank.png)
 
 Versión 1.0
-{:style="center"}
+{:style="text-align: center;"}
 
 Traducción al español de Alexis Trujillo R. (NEM Show Host)
-{:style="center"}
+{:style="text-align: center;"}
 
 **Tabla de Contenidos**:
 
