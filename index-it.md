@@ -3,6 +3,9 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+Versione 1.0
+{:style="text-align: center;"}
+
 **Sommario**:
 
 * Contents

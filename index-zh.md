@@ -3,6 +3,9 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+版本 1.0
+{:style="text-align: center;"}
+
 **目录**:
 
 * Contents

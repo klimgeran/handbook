@@ -3,6 +3,9 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+Version 1.0
+{:style="text-align: center;"}
+
 **Table of Contents**:
 
 * Contents

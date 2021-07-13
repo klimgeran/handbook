@@ -3,6 +3,9 @@
 
 ![Ship cover](images/ship%20cover%20blank.png)
 
+Versão 1.0
+{:style="text-align: center;"}
+
 **Índice**:
 
 * Contents
