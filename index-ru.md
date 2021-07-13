@@ -1,7 +1,7 @@
 # Symbol²: Отражения космических пиратов
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png)
+![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
 
 версия 1.0
 {:style="text-align: center;"}

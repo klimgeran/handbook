@@ -1,7 +1,7 @@
 # Symbol²: Reflections of Space Pirates
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png)
+![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
 
 Version 1.0
 {:style="text-align: center;"}

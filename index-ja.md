@@ -1,7 +1,7 @@
 ﻿# Symbol²: 〜スペースパイレーツの指針〜
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png)
+![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
 
 バージョン1.0
 {:style="text-align: center;"}
