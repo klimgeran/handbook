@@ -10,13 +10,31 @@ ja:
   view-on-github:
 zh:
   language-label: 中文
+  site-title:
+  site-description:
+  view-on-github:
 es:
   language-label: Español
+  site-title: Manual de Symbol
+  site-description: Todo lo que necesita saber sobre el Sindicato de Symbol.
+  view-on-github:
 it:
   language-label: Italiano
+  site-title:
+  site-description:
+  view-on-github:
 pt:
   language-label: Português
+  site-title:
+  site-description:
+  view-on-github:
 ru:
   language-label: русский
+  site-title: Symbol Справочник
+  site-description: Все, что вам необходимо знать о синдикате Symbol.
+  view-on-github: 
 id:
   language-label: Bahasaonesia
+  site-title:
+  site-description:
+  view-on-github:
