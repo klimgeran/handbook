@@ -1,7 +1,7 @@
 # Symbol²: Reflexões de Piratas Espaciais
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
+![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 Versão 1.0
 {:style="text-align: center;"}
@@ -48,8 +48,8 @@ Na teoria dos negócios, disrupção é definida como *inovação que cria um no
 É bem sabido que as estruturas centralizadas freqüentemente estão em conflito com o desenvolvimento de sistemas descentralizados. A introdução do Bitcoin foi uma resposta direta às falhas sistemáticas de uma autoridade centralizada e, desde então, a distribuição de energia tem permanecido um objetivo de design de todas as redes de blockchain até hoje.
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
+<a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
+<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </a></div>
 
 Independentemente disso, a centralização ocorre naturalmente após um período de tempo [^7], seja como um subproduto da especialização ou como economias de escala. Isso provou ser verdadeiro tanto na prova de trabalho (por meio de pools de mineração, concentração de hashrate e hardware especializado) quanto na prova de aposta (por meio da concentração de riqueza e concentração da infraestrutura do validador). Assim, a resiliência no blockchain vem em grande parte de garantir que as partes no ecossistema sejam incentivadas a colaborar, em vez de conspirar. Esta é a base da teoria dos jogos e seu domínio é a chave para um design de sistema bem-sucedido
@@ -67,8 +67,8 @@ No centro disso está o *embaixador* - a *voz* dos sindicatos. Os embaixadores s
 Paralelamente à colheita delegada, existe outro conceito que pode ser aplicado ao sistema em geral: o financiamento quadrático. Proposto pela primeira vez no *radicalismo liberal* por Buterin, Hitzing e Weyl, o[^10] financiamento quadrático busca aplicar o conceito de voto quadrático ao financiamento de bens públicos. Em economia, um bem público é definido como um bem que *não pode ser excluído nem rival*. Não excluível significa que um indivíduo não pode ser excluído do uso; e a não rivalidade significa que o uso por um indivíduo não reduz a disponibilidade do bem para outros. Alguns exemplos comumente referenciados de bens públicos são software de código aberto (como protocolos de blockchain; a Internet; ou sistemas operacionais); educação gratuita (como boletins informativos; podcasts ou documentação técnica); e serviços gratuitos (como televisão e rádio públicas).
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
+<a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
+<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </a></div>
 
 Na **Symbol**, o financiamento quadrático é capaz de resolver um desafio fundamental que temos no financiamento de projetos: como você determina qual projeto beneficiaria mais *pessoas*? Ele consegue isso permitindo que os indivíduos 'comprem para seu voto' em quais projetos devem ser financiados em seguida e amplia as doações com uma correspondência com o sindicato dedicado ao financiamento de bens públicos. Há retornos decrescentes para votos adicionais, o que ajuda a descentralizar o poder de empresas de capital de risco, grandes baleias e corretores de energia centrais. Em resumo, o número* de contribuições individuais é mais importante do que o valor total financiado por um indivíduo.

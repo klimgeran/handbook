@@ -1,7 +1,7 @@
 ﻿# Symbol²: 〜スペースパイレーツの指針〜
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
+![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 バージョン1.0
 {:style="text-align: center;"}
@@ -52,8 +52,8 @@
 中央集権的な構造は、分散型システムの開発とは相入れないということはよく知られています。ビットコインの成したことは、中央集権的な権威組織の失敗に直接対応したものであり、それ以来、権力の分散は現在までのすべてのブロックチェーンネットワークの設計目標であり続けています。
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
+<a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
+<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </a></div>
 
 いずれにしても集中化は、専門化 の副産物として、あるいは規模の経済として、一定期間は自然に起こります[^7]。これは、プルーフ・オブ・ワーク（マイニングプールの寡占、ハッシュレートの集中、特殊なハードウェアによって）とプルーフ・オブ・ステーク（富の集中、バリデーターインフラの集中によって）の両方で証明されています。このように、ブロックチェーンが復調して良い方向に向かうかどうかは、エコシステム内の当事者が協力する方向にインセンティブを得られるかどうかによって大きく左右されます。これはゲーム理論の基本であり、システム設計を成功させるためには、この点を押さえることが鍵となります。
@@ -71,8 +71,8 @@
 委任ハーベスティングと並行して、システム全体に適用できる別の概念としては、Quadratic Fundingがあります。Buterin、Hitzing、Weylによって*Liberal Radicalism*で初めて提案された[^10]Quadratic Fundingは、quadratic voting（重み付け投票）の概念を、公共財の資金調達に適用しようとする試みです。経済学では、公共財とは、*非排除性かつ非競合性の財*と定義されています。非排除性とは、個人の使用を排除できないことを意味し、非競合性とは、個人が使用しても他の人の使用可能性を低下させないことを意味してます。公共財の例としては、オープンソースのソフトウェア（ブロックチェーンプロトコル、インターネット、オペレーティングシステムなど）、無料の教育プログラム（ニュースレター、ポッドキャスト、技術文書など）、無料のサービス（公共のテレビやラジオなど）などです。
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
+<a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
+<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </a></div>
 
 **Symbol**では、Quadratic Fundingによって、プロジェクトの資金調達における重要な課題を解決することができます。それは、どのプロジェクトが最も多くの*個人*に恩恵をもたらすかを、どうやって判断するかということです。Symbolは、個人が次にどのプロジェクトに資金を提供すべきについて、「投票のために買う」ことを可能にし、公共財の資金調達に特化したマッチングシンジケートで寄付を重み付けさせることでこれを実現しています。投票権を追加するとリターンが減少するために、ベンチャーキャピタルや大口のクジラ、中央にいる権力者から、権力を分散させることができます。要約すると、個人の寄付の数の方が、個人による資金提供の総額よりも重要だということです。

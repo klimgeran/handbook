@@ -1,7 +1,7 @@
 # Symbol²: Refleksi Dari Bajak Laut Luar Angkasa
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
+![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 Versi 1.0
 {:style="text-align: center;"}
@@ -48,8 +48,8 @@ Dalam teori bisnis, disrupsi didefinisikan sebagai inovasi yang menciptakan pasa
 Sudah diketahui bahwa struktur terpusat sering bertentangan dengan pengembangan sistem terdesentralisasi. Pengenalan Bitcoin sebagai tanggapan langsung terhadap kegagalan sistematis otoritas terpusat, dan sejak itu distribusi kekuasaan tetap menjadi tujuan desain semua jaringan blockchain hingga saat ini.
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
+<a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
+<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </a></div>
 
 Terlepas dari itu, sentralisasi secara alami terjadi setelah periode [^7] waktu tertentu, baik sebagai produk sampingan dari spesialisasi atau skala ekonomi. Ini telah terbukti benar baik dalam proof-of-work (melalui kumpulan penambangan, konsentrasi hashrate, dan perangkat keras khusus) dan proof-of-stake (melalui konsentrasi kekayaan dan konsentrasi infrastruktur validator). Dengan demikian, ketahanan dalam blockchain sebagian besar berasal dari memastikan pihak-pihak dalam ekosistem diberi insentif untuk berkolaborasi daripada berkolusi. Ini adalah dasar dari teori permainan dan penguasaan ini adalah kunci keberhasilan desain sistem.
@@ -69,8 +69,8 @@ Mereka sering menjadi penerjemah, penulis, dan pendidik - dalam beberapa protoko
 Sejalan dengan pemanenan yang didelegasikan, ada konsep lain yang dapat diterapkan pada sistem secara luas: pendanaan kuadratik. Pertama kali diusulkan dalam Liberal Radicalism oleh Buterin, Hitzing dan Weyl [^10], pendanaan kuadratik berusaha menerapkan konsep pemungutan suara kuadratik pada pendanaan barang publik. Dalam ilmu ekonomi, barang publik didefinisikan sebagai barang yang bersifat non-excludable dan non-rivalrous. Tidak dapat dikecualikan berarti bahwa seseorang tidak dapat dikecualikan dari penggunaan; dan non-rivalrous berarti bahwa penggunaan oleh satu individu tidak mengurangi ketersediaan barang untuk orang lain. Beberapa contoh barang publik yang sering dirujuk adalah open-source soware (seperti protokol blockchain; internet; atau sistem operasi); pendidikan gratis (seperti buletin; podcast; atau dokumentasi teknis); dan layanan gratis (seperti televisi dan radio publik).
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
+<a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
+<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </a></div>
 
 Di **Symbol**, pendanaan kuadrat mampu memecahkan tantangan utama yang kami miliki dalam pembiayaan proyek: bagaimana Anda menentukan proyek mana yang akan menguntungkan sebagian besar individu? Ini mencapai ini dengan memungkinkan individu untuk 'membeli untuk suara mereka' pada proyek apa yang harus didanai selanjutnya dan memperkuat donasi dengan sindikat yang cocok yang didedikasikan untuk pendanaan barang publik. Ada pengembalian yang semakin berkurang untuk suara tambahan, yang membantu mendesentralisasikan kekuasaan dari perusahaan modal ventura, paus besar, dan pialang kekuasaan pusat. Singkatnya, jumlah kontribusi individu lebih penting daripada jumlah total yang didanai oleh individu.

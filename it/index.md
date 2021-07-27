@@ -1,7 +1,7 @@
 # Symbol²: Riflessioni dei Pirati Spaziali
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
+![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 Versione 1.0
 {:style="text-align: center;"}
@@ -48,8 +48,8 @@ Nella teoria aziendale, l’innovazione dirompente è definita come un'innovazio
 È risaputo che le strutture centralizzate sono spesso in contrasto con lo sviluppo di sistemi decentralizzati. L'introduzione di Bitcoin è stata una risposta diretta ad i sistematici fallimenti di un'autorità centralizzata, e da allora la distribuzione del potere è rimasta un obiettivo di progettazione di tutte le reti blockchain fino ad oggi.
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
+<a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
+<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </a></div>
 
 Indipendentemente da ciò, la centralizzazione si verifica naturalmente dopo un periodo di tempo[^7], sia come conseguenza della specializzazione che come conseguenza dell’economia di scala.
@@ -81,8 +81,8 @@ Non escludibile significa che un individuo non può esserne escluso dall'uso; la
 Alcuni esempi comunemente citati di beni pubblici sono il software open source (come protocolli blockchain; Internet; o sistemi operativi); le informazioni gratuite (come newsletter; podcast; o documentazione tecnica); e servizi gratuiti (come la televisione pubblica e la radio).
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
+<a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
+<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </a></div>
 
 In **Symbol**, il finanziamento quadratico è in grado di risolvere una sfida chiave che abbiamo nel finanziamento di progetti: come si fa determinare da quale progetto trarrebbe beneficio il maggior numero di individui? Il finanziamento quadratico, permette di raggiungere questo obiettivo, consentendo agli individui di comprare ‘tramite il loro voto' quale sia il prossimo progetto ad essere finanziato e permette di amplificare le donazioni tramite una corporazione dedicata al finanziamento dei beni pubblici. Il peso di ciascuno decresce all’aumentare del numero di voti, il che aiuta a decentralizzare il potere allontanandolo da società di capitali di rischio, da grandi balene e da intermediari del potere centrale. in sintesi, il numero dei contributi individuali conta più dell'importo finanziato da un individuo.

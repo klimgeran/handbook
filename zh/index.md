@@ -1,7 +1,7 @@
 # Symbol²: 太空海盗理论
 {:.no_toc}
 
-![Ship cover](images/ship%20cover%20blank.png){:width="100%"}
+![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 版本 1.0
 {:style="text-align: center;"}
@@ -88,8 +88,8 @@ Symbol的未来设想为位于定制链世界中心的枢纽和交换层,并且�
 统失败的直接回应,从那时起,权力分配一直是迄今为止所有区块链网络的设计目标。
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
+<a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
+<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
 </a></div>
 
 无论如何,中心化自然会在一段时间后发生
@@ -121,8 +121,8 @@ Syndicates在很大程度上被激励将区块链上的集体成功高于自己�
 识别。他们致力于协调混乱并支持其代表社区的想法。
 
 <div style="float: right; width: 50%; margin-left: 8px">
-<a href="images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
+<a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
+<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
 </a></div>
 
 他们通常是翻译、作家和教育者 —— 在某些协议中,他们是“生态系统代表”; 或是“网路
