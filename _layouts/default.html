@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: "en" }}">
 
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
 {% seo %}
   </head>
@@ -17,27 +17,27 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+            <a id="forkme_banner" href="{{ site.github.repository_url }}">
+              {{ site.data.languages[page.lang].view-on-github | default: site.data.languages["en"].view-on-github }}
+            </a>
           {% endif %}
 
           <div style="float: right" text-color="white">
             <div class="dropdown">
               <button class="dropbtn">Language 🌐</button>
               <div class="dropdown-content">
-                <a href="../en/index.html">English</a>
-                <a href="../ja/index.html">日本語</a>
-                <a href="../zh/index.html">中文</a>
-                <a href="../es/index.html">Español</a>
-                <a href="../it/index.html">Italiano</a>
-                <a href="../pt/index.html">Português</a>
-                <a href="../ru/index.html">русский</a>
-                <a href="../id/index.html">Bahasaonesia</a>
+                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                  {% for p in pages %}
+                    <a href="{{ p.url }}" class="{{ p.lang }}">{{ site.data.languages[p.lang].language-label }}</a>
+                  {% endfor %}
               </div>
             </div>
           </div>
 
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+          <h1 id="project_title"><a href="/{{ page.lang }}">
+            {{ site.data.languages[page.lang].site-title | default: site.data.languages["en"].site-title }}
+          </a></h1>
+          <h2 id="project_tagline">{{ site.data.languages[page.lang].site-description | default: site.data.languages["en"].site-description }}</h2>
 
           {% if site.show_downloads %}
             <section id="downloads">
@@ -51,6 +51,7 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        <h1>{{ page.title }}</h1>
         {{ content }}
       </section>
     </div>
@@ -75,5 +76,22 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+    
+    <!-- Back to top button-->
+    <button onclick="topFunction()" id="BackToTopButton" title="Go to top">&UpArrowBar;</button>
+    <script>
+      var button = document.getElementById("BackToTopButton");
+      window.onscroll = function() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+          button.style.display = "block";
+        } else {
+          button.style.display = "none";
+        }
+      }
+      function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+      }
+    </script>
   </body>
 </html>
