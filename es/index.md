@@ -6,7 +6,7 @@ ref: welcome
 
 ![Welcome](../images/welcome.jpg){:width="100%"}
 
-Esto es lo que encontrarás dentro de este Manual:
+Esto es lo que encontrará dentro de este Manual:
 
 <!--
 List all pages in the site which match the language of THIS page, sorted
