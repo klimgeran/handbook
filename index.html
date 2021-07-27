@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!--
+        Automatic switcher that will redirect to the browser's language if landed to the root index.html file.
+        User can always choose a different language later.
+    -->
+    <script>
+        var lang = (((navigator.userLanguage || navigator.language).replace('-', '_')).toLowerCase()).split('_')[0];
+        var supported_languages = ["en", "es", "id", "it", "ja", "pt", "ru", "zh"];
+        var selected_lang = "en"
+        if (supported_languages.indexOf(lang) >= 0)
+            selected_lang = lang;
+        window.location = '/' + selected_lang + '/';
+    </script>
+</body>
+</html>
