@@ -3,38 +3,70 @@ en:
   site-title: The Symbol Handbook
   site-description: Everything you need to know about the Symbol Syndicate.
   view-on-github: View on GitHub
+  categories:
+    philosophy: Philosophy
+    organization: Organization
+    education: Education
 ja:
   language-label: 日本語
   site-title: Symbolハンドブック
   site-description: Symbolシンジケートについて知っておいて欲しいこと
   view-on-github:
+  categories:
+    philosophy: 哲学
+    organization: 組織
+    education: 教育
 zh:
   language-label: 中文
   site-title: Symbol手册
   site-description: 您需要了解的有关Symbol辛迪加(Syndicate)的所有信息
   view-on-github:
+  categories:
+    philosophy: 哲学
+    organization: 组织
+    education: 教育
 es:
   language-label: Español
   site-title: Manual de Symbol
   site-description: Todo lo que necesita saber sobre el Sindicato de Symbol.
   view-on-github:
+  categories:
+    philosophy: Filosofía
+    organization: Organización
+    education: Educación
 it:
   language-label: Italiano
   site-title: Il manuale di Symbol
   site-description: Tutto ciò che devi sapere sulla corporazione di Symbol.
   view-on-github:
+  categories:
+    philosophy: Filosofia
+    organization: Organizzazione
+    education: Addestramento
 pt:
   language-label: Português
   site-title: Manual do Symbol
   site-description: Tudo o que você precisa saber sobre o Symbol Syndicate.
   view-on-github:
+  categories:
+    philosophy: Filosofia
+    organization: Organização
+    education: Treinamento
 ru:
   language-label: русский
   site-title: Symbol Справочник
   site-description: Все, что вам необходимо знать о синдикате Symbol.
   view-on-github: 
+  categories:
+    philosophy: Философия
+    organization: Организация
+    education: Подготовка
 id:
   language-label: Bahasaonesia
   site-title: Pedoman Symbol
   site-description: Semua yang perlu Anda ketahui tentang Sindikat Symbol.
   view-on-github:
+  categories:
+    philosophy: Filsafat
+    organization: Organisasi
+    education: Pelatihan

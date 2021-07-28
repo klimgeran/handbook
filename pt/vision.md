@@ -1,6 +1,7 @@
 ---
 title: "Symbol²: Reflexões de Piratas Espaciais"
 description: "A visão do Symbol."
+category: philosophy
 lang: pt
 ref: vision
 order: 1

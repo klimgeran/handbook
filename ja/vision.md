@@ -1,6 +1,7 @@
 ﻿---
 title: "Symbol²: スペースパイレーツの指針"
 description: "シンボルビジョン"
+category: philosophy
 lang: ja
 ref: vision
 order: 1

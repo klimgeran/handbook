@@ -1,6 +1,7 @@
 ---
 title: "Glossary"
 description: List of codenames, acronyms, lingo and crypto-specific words not everyone is familiar with.
+category: education
 lang: en
 ref: glossary
 order: 100

@@ -1,6 +1,7 @@
 ---
 title: "Symbol²: Отражения космических пиратов"
 description: "Видение символа."
+category: philosophy
 lang: ru
 ref: vision
 order: 1

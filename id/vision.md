@@ -1,6 +1,7 @@
 ---
 title: "Symbol²: Refleksi Dari Bajak Laut Luar Angkasa"
 description: "Visi Symbol."
+category: philosophy
 lang: id
 ref: vision
 order: 1

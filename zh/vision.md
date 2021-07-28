@@ -1,6 +1,7 @@
 ---
 title: "Symbol²: 太空海盗理论"
 description: "象征愿景"
+category: philosophy
 lang: zh
 ref: vision
 order: 1

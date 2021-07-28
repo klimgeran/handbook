@@ -1,6 +1,7 @@
 ---
 title: "Directory"
 description: "Who's who and how to reach them."
+category: organization
 lang: en
 ref: directory
 order: 100
