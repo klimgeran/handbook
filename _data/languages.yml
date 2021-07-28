@@ -3,6 +3,7 @@ en:
   site-title: The Symbol Handbook
   site-description: Everything you need to know about the Symbol Syndicate.
   view-on-github: View on GitHub
+  missing-translation: Missing translation
   categories:
     philosophy: Philosophy
     organization: Organization
@@ -12,6 +13,7 @@ ja:
   site-title: Symbolハンドブック
   site-description: Symbolシンジケートについて知っておいて欲しいこと
   view-on-github:
+  missing-translation: 翻訳がありません
   categories:
     philosophy: 哲学
     organization: 組織
@@ -21,6 +23,7 @@ zh:
   site-title: Symbol手册
   site-description: 您需要了解的有关Symbol辛迪加(Syndicate)的所有信息
   view-on-github:
+  missing-translation: 缺少翻译
   categories:
     philosophy: 哲学
     organization: 组织
@@ -30,6 +33,7 @@ es:
   site-title: Manual de Symbol
   site-description: Todo lo que necesita saber sobre el Sindicato de Symbol.
   view-on-github:
+  missing-translation: Falta la traducción
   categories:
     philosophy: Filosofía
     organization: Organización
@@ -39,6 +43,7 @@ it:
   site-title: Il manuale di Symbol
   site-description: Tutto ciò che devi sapere sulla corporazione di Symbol.
   view-on-github:
+  missing-translation: Traduzione mancante
   categories:
     philosophy: Filosofia
     organization: Organizzazione
@@ -48,6 +53,7 @@ pt:
   site-title: Manual do Symbol
   site-description: Tudo o que você precisa saber sobre o Symbol Syndicate.
   view-on-github:
+  missing-translation: Tradução ausente
   categories:
     philosophy: Filosofia
     organization: Organização
@@ -56,7 +62,8 @@ ru:
   language-label: Русский
   site-title: Symbol Справочник
   site-description: Все, что вам необходимо знать о синдикате Symbol.
-  view-on-github: 
+  view-on-github:
+  missing-translation: Отсутствует перевод
   categories:
     philosophy: Философия
     organization: Организация
@@ -66,6 +73,7 @@ id:
   site-title: Pedoman Symbol
   site-description: Semua yang perlu Anda ketahui tentang Sindikat Symbol.
   view-on-github:
+  missing-translation: Terjemahan tidak ada
   categories:
     philosophy: Filsafat
     organization: Organisasi
