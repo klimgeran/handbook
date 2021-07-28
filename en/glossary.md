@@ -29,6 +29,7 @@ order: 100
 | CMC | Coin Market Cap. A web page. |
 | CSD | Central Securities Deposit |
 | DAO | Decentralized Autonomous Organization |
+| DDH | Decisional Diffie-Hellman |
 | DeFi | Decentralized Finance |
 | DEX | Decentralized Exchange. |
 | DD  | Due Diligence |
@@ -44,11 +45,13 @@ order: 100
 | ERC-# | “Ethereum Request for Comment”. Commonly utilized to refer to a token standard on the EVM (such as ERC-20, ERC-721, ERC-1155). |
 | ETH | Ethereum |
 | EVM | Ethereum Virtual Machine |
+| FFT | Fast Fourier Transform |
 | Flashbot |     |
 | Front-running | In context of cryptocurrencies: trying to include _your_ transaction _in front of_ some other transaction. This is more important in case of DeFi markets, where gains can be made from front-running. |
 | FWIW | For What It’s Worth. |
 | Hermès | Messenger of the Gods. Codename for Symbol’s next wallet project. |
 | ICO | Initial Coin Offering |
+| IVC | Incrementally Verifiable Computations |
 | IP  | Intellectual Property |
 | IRS | Internal Revenue Service. Who you pay your taxes to if you live in the US. |
 | [Kairos](https://nem-software.atlassian.net/wiki/spaces/CD/overview?homepageId=633766243) | _From Ancient Greek: “The right, critical, or opportune moment.”_<br>The codename for a collectible card game, built on top of Symbol. |
@@ -81,6 +84,7 @@ order: 100
 | PoW | Proof of Work. A consensus protocol. |
 | Rug Pull | A malicious maneuver where cryptocurrency developers abandon a project and run off with the funds. |
 | Sandwitch | A type of front-running technique that’s popular in DeFi. To make a sandwich, you find a pending transaction in the network and then try to surround the network by placing one order _just_ before the transaction (front-running) and one order just after it (back-running). |
+| SXDH | Symmetric External Diffie-Hellman |
 
 ## T-U-V-W-X-Y-Z
 
