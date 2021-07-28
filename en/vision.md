@@ -7,8 +7,6 @@ ref: vision
 order: 1
 ---
 
-{:.no_toc}
-
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
 
 Version 1.0
@@ -66,9 +64,9 @@ In **Symbol**, we achieve collaboration through the concept of *cabals.* Traditi
 
 Today, we can observe three naturally formed syndicates: infrastructure syndicates (nodes and their human operators); protocol syndicates (developers and system architects); and user syndicates (dApps and individuals). Syndicates are largely incentivized to put the collective success of the chain above their own individual desires:
 
-- Nodes are reliant on developers and system architects to design, develop and deploy new functionality on-chain; and dApps to innovate in order to attract new users (and thus, generate network fees);
-- Developers are reliant on nodes to actively maintain healthy network consensus through system upgrades; and on dApps to build innovative products that monetize the public chain and showcase the system;
-- dApps are dependent on developers to bring about new functionality that allows them to build innovative products to attract customers; and nodes to provide mission critical infrastructure that keeps the network stable.
+* Nodes are reliant on developers and system architects to design, develop and deploy new functionality on-chain; and dApps to innovate in order to attract new users (and thus, generate network fees);
+* Developers are reliant on nodes to actively maintain healthy network consensus through system upgrades; and on dApps to build innovative products that monetize the public chain and showcase the system;
+* dApps are dependent on developers to bring about new functionality that allows them to build innovative products to attract customers; and nodes to provide mission critical infrastructure that keeps the network stable.
 
 At the heart of this is the *ambassador* — the *voice* of the syndicates. Ambassadors are quickly identified by their communication and relationship skills. They work to bring about coordination of chaos and champion the ideas of their representative communities. They’re often translators, writers and educators — in some protocols, they’re ‘ecosystem representatives’; in others, ‘network coordinators’. In **Symbol**, ambassadors are able to be both elected and financed through delegated harvesting. If, at any point, communities feel that their elected ambassadors aren’t performing, they can delegate to a new ambassador.
 
@@ -93,11 +91,11 @@ Despite not having a government to enforce or otherwise support cooperative arra
 
 What follows are *some* of our proposed **articles of agreement** - the oath we take before pushing off on **Symbol** next journey. While any articles need consensus, and importantly approval of the crew, we think it’s helpful to set some general guidelines.
 
-- We value **transparency.** Transparency builds trust; holds us accountable; and allows us to push our ecosystem forward. We operate in *plain sight,* ensuring our community has full visibility of our work and our team can learn from our own mistakes. We share information openly, broadly, and deliberately — about things we’ve learned; mistakes we’ve made; ideas we’ve thought of and what we’re working on. Nearly every document is fully open for anyone to read and comment on; every strategy decision; every analysis; every product or feature test. We use tools that align with our values (Git, Discord) and empower the ecosystem to work alongside us.
-- We believe in **financial freedom**. We operate with a formula-based approach to compensation that is immediately visible to all. We pair competitive, market equivalent salaries with a generous benefits package. We believe every member should have a vested interest in what we’re building, which is why we include a token vesting schedule in all compensation packages.
-- We are a **championship team**. We are not a family — we choose our players. We have high expectations for performance and results. If someone isn’t raising the average, we actively coach and develop. We have an intense, oftentimes chaotic work culture and are regularly pushed out of our comfort zones — which allows us to grow, both as individuals and a team. We expect our team to earn their seat on the ship and keep it.
-- We seek **rockstars**. We take extraordinary measures to make sure we have top talent in every seat. We favor people who are “T-Shaped” — generalists (highly skilled at a broad set of valuable things) but also experts (among the best in their field within a narrow discipline). We only work alongside people who are more capable than ourselves, not less. We believe talent is the most important factor in our success, and we expect the entire crew to take accountability in raising the average on the team. Unremarkable performance is met with a generous severance package.
-- We are **focused**. **Symbol’s** mission is to disrupt markets and bring about equality of opportunity. We are an engineering-centric crew, first and foremost — if your expertise is not in writing code then every bit of energy you have must be put into understanding the technology behind our systems.
+* We value **transparency.** Transparency builds trust; holds us accountable; and allows us to push our ecosystem forward. We operate in *plain sight,* ensuring our community has full visibility of our work and our team can learn from our own mistakes. We share information openly, broadly, and deliberately — about things we’ve learned; mistakes we’ve made; ideas we’ve thought of and what we’re working on. Nearly every document is fully open for anyone to read and comment on; every strategy decision; every analysis; every product or feature test. We use tools that align with our values (Git, Discord) and empower the ecosystem to work alongside us.
+* We believe in **financial freedom**. We operate with a formula-based approach to compensation that is immediately visible to all. We pair competitive, market equivalent salaries with a generous benefits package. We believe every member should have a vested interest in what we’re building, which is why we include a token vesting schedule in all compensation packages.
+* We are a **championship team**. We are not a family — we choose our players. We have high expectations for performance and results. If someone isn’t raising the average, we actively coach and develop. We have an intense, oftentimes chaotic work culture and are regularly pushed out of our comfort zones — which allows us to grow, both as individuals and a team. We expect our team to earn their seat on the ship and keep it.
+* We seek **rockstars**. We take extraordinary measures to make sure we have top talent in every seat. We favor people who are “T-Shaped” — generalists (highly skilled at a broad set of valuable things) but also experts (among the best in their field within a narrow discipline). We only work alongside people who are more capable than ourselves, not less. We believe talent is the most important factor in our success, and we expect the entire crew to take accountability in raising the average on the team. Unremarkable performance is met with a generous severance package.
+* We are **focused**. **Symbol’s** mission is to disrupt markets and bring about equality of opportunity. We are an engineering-centric crew, first and foremost — if your expertise is not in writing code then every bit of energy you have must be put into understanding the technology behind our systems.
 
 In all things, we serve **Symbol**, first and foremost.
 
