@@ -36,7 +36,7 @@ Proper commit messages are **extremely important** as they simplify **maintainab
 ---
 
 > **NOTE**:
-> The following commit message **format** and **content** are **mandatory**, and will be **enforced by server hooks** in the future ([ABALONE-52: Improve commit message](https://nem-software.atlassian.net/browse/ABALONE-52))
+> The following commit message **format** and **content** are **mandatory**, and will be **enforced by server hooks** in the future ([symbol-infra/issues/17](https://github.com/symbol/symbol-infra/issues/17)).
 
 ## Commit Message Content
 
