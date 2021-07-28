@@ -5,13 +5,13 @@ en:
   view-on-github: View on GitHub
 ja:
   language-label: 日本語
-  site-title:
-  site-description:
+  site-title: Symbolハンドブック
+  site-description: Symbolシンジケートについて知っておいて欲しいこと
   view-on-github:
 zh:
   language-label: 中文
-  site-title:
-  site-description:
+  site-title: Symbol手册
+  site-description: 您需要了解的有关Symbol辛迪加(Syndicate)的所有信息
   view-on-github:
 es:
   language-label: Español
@@ -25,8 +25,8 @@ it:
   view-on-github:
 pt:
   language-label: Português
-  site-title:
-  site-description:
+  site-title: Manual do Symbol
+  site-description: Tudo o que você precisa saber sobre o Symbol Syndicate.
   view-on-github:
 ru:
   language-label: русский
@@ -35,6 +35,6 @@ ru:
   view-on-github: 
 id:
   language-label: Bahasaonesia
-  site-title:
-  site-description:
+  site-title: Pedoman Symbol
+  site-description: Semua yang perlu Anda ketahui tentang Sindikat Symbol.
   view-on-github:

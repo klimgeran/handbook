@@ -6,7 +6,7 @@ ref: welcome
 
 ![Welcome](../images/welcome.jpg){:width="100%"}
 
-This is what you will find inside this handbook:
+Isso é o que você encontrará neste manual:
 
 <!--
 List all pages in the site which match the language of THIS page, sorted

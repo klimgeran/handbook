@@ -6,7 +6,7 @@ ref: welcome
 
 ![Welcome](../images/welcome.jpg){:width="100%"}
 
-This is what you will find inside this handbook:
+Inilah yang akan Anda temukan di dalam pedoman ini:
 
 <!--
 List all pages in the site which match the language of THIS page, sorted
