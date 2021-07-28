@@ -5,6 +5,7 @@ category: organization
 lang: en
 ref: directory
 order: 100
+version: 1
 ---
 
 ## Team Members

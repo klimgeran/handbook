@@ -5,6 +5,7 @@ category: philosophy
 lang: ja
 ref: vision
 order: 1
+version: 1
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}

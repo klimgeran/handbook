@@ -5,6 +5,7 @@ category: education
 lang: en
 ref: glossary
 order: 100
+version: 1
 ---
 
 <style>ul {padding:0px} li {display:inline;}</style>

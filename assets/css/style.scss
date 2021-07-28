@@ -43,6 +43,16 @@ footer a {
 .missing_translation a {
     opacity: 0.75;
 }
+.outdated_warning {
+  color: white;
+  background-color: #ff9600;
+  text-align:center;
+  padding: 10px;
+  border-radius: 6px;
+}
+.outdated_warning a {
+  color: #44004e;
+}
 
 pre {
     padding: 0px;

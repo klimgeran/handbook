@@ -5,6 +5,7 @@ category: organization
 lang: en
 ref: git-branching
 order: 100
+version: 1
 ---
 
 ## Table of Contents

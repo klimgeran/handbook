@@ -5,6 +5,7 @@ category: organization
 lang: en
 ref: commit-discipline
 order: 100
+version: 1
 ---
 
 ## Table of Contents

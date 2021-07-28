@@ -51,6 +51,15 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+        {% assign orgp=site.pages | where:"ref", page.ref | where:"lang", "en" %}
+        {% if page.version != orgp[0].version %}
+          <div class="outdated_warning">
+            <span style="font-size:x-large">⚠️</span><br/>
+            {{ site.data.languages[page.lang].outdated-warning }}<br/>
+            <a href="{{ orgp[0].url }}">{{ site.data.languages[page.lang].outdated-see-original }}</a>
+          </div>
+        {% endif %}
+
         <h1>{{ page.title }}</h1>
         {{ page.description }}
         {{ content }}

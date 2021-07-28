@@ -5,6 +5,7 @@ category: organization
 lang: en
 ref: cpp-coding-guidelines
 order: 100
+version: 1
 ---
 
 ## Table of Contents

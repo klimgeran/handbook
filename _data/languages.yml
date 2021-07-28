@@ -4,6 +4,9 @@ en:
   site-description: Everything you need to know about the Symbol Syndicate.
   view-on-github: View on GitHub
   missing-translation: Missing translation
+  outdated-translation: Outdated translation
+  outdated-warning: The translation of this page is outdated and some content might not be correct.
+  outdated-see-original: Read the English original.
   categories:
     philosophy: Philosophy
     organization: Organization
@@ -14,6 +17,9 @@ ja:
   site-description: Symbolシンジケートについて知っておいて欲しいこと
   view-on-github:
   missing-translation: 翻訳がありません
+  outdated-translation: 古い翻訳
+  outdated-warning: このページの翻訳は古くなっており、一部のコンテンツが正しくないかもしれません。
+  outdated-see-original: 英語を元に読んでください。
   categories:
     philosophy: 哲学
     organization: 組織
@@ -24,6 +30,9 @@ zh:
   site-description: 您需要了解的有关Symbol辛迪加(Syndicate)的所有信息
   view-on-github:
   missing-translation: 缺少翻译
+  outdated-translation: 过时的翻译
+  outdated-warning: 此页面的翻译已过时，某些内容可能无法正确。
+  outdated-see-original: 阅读英语原创。
   categories:
     philosophy: 哲学
     organization: 组织
@@ -34,6 +43,9 @@ es:
   site-description: Todo lo que necesita saber sobre el Sindicato de Symbol.
   view-on-github:
   missing-translation: Falta la traducción
+  outdated-translation: Traducción desactualizada
+  outdated-warning: La traducción de esta página está desactualizada y el contenido puede no ser correcto.
+  outdated-see-original: Leer el original en Inglés.
   categories:
     philosophy: Filosofía
     organization: Organización
@@ -44,6 +56,9 @@ it:
   site-description: Tutto ciò che devi sapere sulla corporazione di Symbol.
   view-on-github:
   missing-translation: Traduzione mancante
+  outdated-translation: Traduzione obsoleto
+  outdated-warning: La traduzione di questa pagina è obsoleta e alcuni contenuti potrebbero non essere corretti.
+  outdated-see-original: Leggi l'originale Inglese.
   categories:
     philosophy: Filosofia
     organization: Organizzazione
@@ -54,6 +69,9 @@ pt:
   site-description: Tudo o que você precisa saber sobre o Symbol Syndicate.
   view-on-github:
   missing-translation: Tradução ausente
+  outdated-translation: Tradução ultrapassada
+  outdated-warning: A tradução desta página está desatualizada e algum conteúdo pode não estar correto.
+  outdated-see-original: Leia o original Inglês.
   categories:
     philosophy: Filosofia
     organization: Organização
@@ -64,6 +82,9 @@ ru:
   site-description: Все, что вам необходимо знать о синдикате Symbol.
   view-on-github:
   missing-translation: Отсутствует перевод
+  outdated-translation: Устаревший перевод
+  outdated-warning: Перевод этой страницы устарел, а какой-то контент может быть не правильным.
+  outdated-see-original: Читайте английский оригинал.
   categories:
     philosophy: Философия
     organization: Организация
@@ -74,6 +95,9 @@ id:
   site-description: Semua yang perlu Anda ketahui tentang Sindikat Symbol.
   view-on-github:
   missing-translation: Terjemahan tidak ada
+  outdated-translation: Terjemahan usang
+  outdated-warning: Terjemahan halaman ini sudah usang dan beberapa konten mungkin tidak benar.
+  outdated-see-original: Baca asli bahasa Inggris.
   categories:
     philosophy: Filsafat
     organization: Organisasi
