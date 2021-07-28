@@ -1,5 +1,6 @@
 ---
 title: "Git branching structure"
+description: "How to organize Git branches in our repositories."
 category: organization
 lang: en
 ref: git-branching
