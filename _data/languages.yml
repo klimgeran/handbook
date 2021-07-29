@@ -78,17 +78,17 @@ pt:
     education: Treinamento
 ru:
   language-label: Русский
-  site-title: Symbol Справочник
-  site-description: Все, что вам необходимо знать о синдикате Symbol.
-  edit-on-github:
-  missing-translation: Отсутствует перевод
-  outdated-translation: Устаревший перевод
-  outdated-warning: Перевод этой страницы устарел, а какой-то контент может быть не правильным.
-  outdated-see-original: Читайте английский оригинал.
+  site-title: Справочник Symbol
+  site-description: Это то, что вы найдете в справочнике Symbol:
+  edit-on-github: Редактировать на GitHub
+  missing-translation: Перевод отсутствует
+  outdated-translation: Устаревшая версия перевода
+  outdated-warning: Перевод этой страницы устарел, и некоторое содержание может быть неверным.
+  outdated-see-original: Прочтите английский оригинал документа.
   categories:
     philosophy: Философия
-    organization: Организация
-    education: Подготовка
+    organization: Дополнительная информация
+    education: Образование
 id:
   language-label: Bahasaonesia
   site-title: Pedoman Symbol
