@@ -17,8 +17,8 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
-            <a id="forkme_banner" href="{{ site.github.repository_url }}">
-              {{ site.data.languages[page.lang].view-on-github | default: site.data.languages["en"].view-on-github }}
+            <a id="forkme_banner" href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path }}" target="_blank">
+              {{ site.data.languages[page.lang].edit-on-github | default: site.data.languages["en"].edit-on-github }}
             </a>
           {% endif %}
 

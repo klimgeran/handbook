@@ -2,7 +2,7 @@ en:
   language-label: English
   site-title: The Symbol Handbook
   site-description: Everything you need to know about the Symbol Syndicate.
-  view-on-github: View on GitHub
+  edit-on-github: Edit on GitHub
   missing-translation: Missing translation
   outdated-translation: Outdated translation
   outdated-warning: The translation of this page is outdated and some content might not be correct.
@@ -15,7 +15,7 @@ ja:
   language-label: 日本語
   site-title: Symbolハンドブック
   site-description: Symbolシンジケートについて知っておいて欲しいこと
-  view-on-github:
+  edit-on-github:
   missing-translation: 翻訳がありません
   outdated-translation: 古い翻訳
   outdated-warning: このページの翻訳は古くなっており、一部のコンテンツが正しくないかもしれません。
@@ -28,7 +28,7 @@ zh:
   language-label: 中文
   site-title: Symbol手册
   site-description: 您需要了解的有关Symbol辛迪加(Syndicate)的所有信息
-  view-on-github:
+  edit-on-github:
   missing-translation: 缺少翻译
   outdated-translation: 过时的翻译
   outdated-warning: 此页面的翻译已过时，某些内容可能无法正确。
@@ -41,7 +41,7 @@ es:
   language-label: Español
   site-title: Manual de Symbol
   site-description: Todo lo que necesita saber sobre el Sindicato de Symbol.
-  view-on-github:
+  edit-on-github:
   missing-translation: Falta la traducción
   outdated-translation: Traducción desactualizada
   outdated-warning: La traducción de esta página está desactualizada y el contenido puede no ser correcto.
@@ -54,7 +54,7 @@ it:
   language-label: Italiano
   site-title: Il manuale di Symbol
   site-description: Tutto ciò che devi sapere sulla corporazione di Symbol.
-  view-on-github:
+  edit-on-github:
   missing-translation: Traduzione mancante
   outdated-translation: Traduzione obsoleto
   outdated-warning: La traduzione di questa pagina è obsoleta e alcuni contenuti potrebbero non essere corretti.
@@ -67,7 +67,7 @@ pt:
   language-label: Português
   site-title: Manual do Symbol
   site-description: Tudo o que você precisa saber sobre o Symbol Syndicate.
-  view-on-github:
+  edit-on-github:
   missing-translation: Tradução ausente
   outdated-translation: Tradução ultrapassada
   outdated-warning: A tradução desta página está desatualizada e algum conteúdo pode não estar correto.
@@ -80,7 +80,7 @@ ru:
   language-label: Русский
   site-title: Symbol Справочник
   site-description: Все, что вам необходимо знать о синдикате Symbol.
-  view-on-github:
+  edit-on-github:
   missing-translation: Отсутствует перевод
   outdated-translation: Устаревший перевод
   outdated-warning: Перевод этой страницы устарел, а какой-то контент может быть не правильным.
@@ -93,7 +93,7 @@ id:
   language-label: Bahasaonesia
   site-title: Pedoman Symbol
   site-description: Semua yang perlu Anda ketahui tentang Sindikat Symbol.
-  view-on-github:
+  edit-on-github:
   missing-translation: Terjemahan tidak ada
   outdated-translation: Terjemahan usang
   outdated-warning: Terjemahan halaman ini sudah usang dan beberapa konten mungkin tidak benar.
