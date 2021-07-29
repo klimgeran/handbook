@@ -12,6 +12,10 @@ body, header, footer, #header_wrap, #footer_wrap {
     background: #44004e
 }
 
+#main_content {
+  overflow-x:auto;
+}
+
 #forkme_banner {
     background-color: #000000
 }
@@ -57,6 +61,18 @@ footer a {
 pre {
     padding: 0px;
     box-shadow: none;
+}
+
+table {
+  border:none;
+  border-collapse: separate;
+}
+th {
+  background:#44004e;
+}
+td {
+  border: solid black;
+  border-width: 1px 0px 0px 0px;
 }
 
 /* Dropdown Button */
