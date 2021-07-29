@@ -52,17 +52,19 @@ version: 1
 
 | Name               | Discord                     | Telegram                                             | Twitter                                         | Region |
 | :----------------- | :-------------------------- | :--------------------------------------------------- | :---------------------------------------------- | :----- |
-| Abderrahmane       | Abderrahmanebouterfaya#7076 | [@Bouterfaya](https://t.me/Bouterfaya)               |                                                 |        |
-| Alessio            | alediemmee#4796             | [@alediemmee](https://t.me/alediemmee)               |                                                 |        |
-| Alexis             | psputnik#2769               | [@psputnik](https://t.me/psputnik)                   |                                                 |        |
-| Ana                | AnaPikachu912#6226          | [@ana912](https://t.me/ana912)                       |                                                 |        |
-| Angel              | angelnem#3452               | [@angelnem](https://t.me/angelnem)                   |                                                 |        |
-| Carlos             | OldSkull1982#1973           | [@Oldskull1982](https://t.me/Oldskull1982)           |                                                 |        |
-| CB                 | C2daB#1651                  | [@C2daB](https://t.me/C2daB)                         |                                                 |        |
-| Chipmunk           | Chipmunk#5563               | [@ChipmunkJP](https://t.me/ChipmunkJP)               |                                                 |        |
-| David Ham          | D..H..#5923                 | [@Davham](https://t.me/Davham)                       |                                                 |        |
+| Abderrahmane       | Abderrahmanebouterfaya#7076 | [@Bouterfaya](https://t.me/Bouterfaya)               | (https://twitter.com/AbdouBouterfaya)           | IT
+
+| Alessio            | alediemmee#4796             | [@alediemmee](https://t.me/alediemmee)               | (https://twitter.com/alediemmee)                |        |
+| Alexis             | psputnik#2769               | [@psputnik](https://t.me/psputnik)                   | (https://twitter.com/PepinSputnik)              |        |
+| Ana                | AnaPikachu912#6226          | [@ana912](https://t.me/ana912)                       | (https://twitter.com/AnaPikachu912)             |        |
+| Angel              | angelnem#3452               | [@angelnem](https://t.me/angelnem)                   | (https://twitter.com/bestgoldangel)             |        |
+| Carlos             | OldSkull1982#1973           | [@Oldskull1982](https://t.me/Oldskull1982)           | https://twitter.com/todo_nem)                   |
+|
+| CB                 | C2daB#1651                  | [@C2daB](https://t.me/C2daB)                         | (https://twitter.com/DjCellBlock)               |        |
+| Chipmunk           | Chipmunk#5563               | [@ChipmunkJP](https://t.me/ChipmunkJP)               | (https://twitter.com/AI27982784)                |        |
+| David Ham          | D..H..#5923                 | [@Davham](https://t.me/Davham)                       | (https://twitter.com/David_TH_Ham)              |        |
 | Demi               | Demi#9601                   |                                                      |                                                 |        |
-| DTBYChris          | Dtbychris#4883              | [@dtbychris](https://t.me/dtbychris)                 |                                                 |        |
+| DTBYChris          | Dtbychris#4883              | [@dtbychris](https://t.me/dtbychris)                 | (https://twitter.com/NEM_Taiwanese)             |        |
 | Essan              |                             | [@gehari3sei](https://t.me/gehari3sei)               |                                                 |        |
 | Etsuko             | Etsuko#5751                 | [@etsukokanetaka](https://t.me/etsukokanetaka)       |                                                 |        |
 | Faizul Reza        | Faizul#2779                 | [@Faizul_r](https://t.me/Faizul_r)                   | [@FaizulReza1](https://twitter.com/FaizulReza1) |        |
@@ -70,9 +72,9 @@ version: 1
 | Hexagon            | hexagontr#1470              | [@HexagonTR](https://t.me/HexagonTR)                 |                                                 |        |
 | Imane              |                             | [@Imanemour](https://t.me/Imanemour)                 |                                                 |        |
 | Joel Aquino        | Joelcryptolife#7271         | [@JoelNemlife](https://t.me/JoelNemlife)             |                                                 |        |
-| Johnny             | Johnny77#6191               | [@JohnnyTongki](https://t.me/JohnnyTongki)           |                                                 |        |
-| Klim               | klimgeran#4414              | [@klimgeran](https://t.me/klimgeran)                 |                                                 |        |
-| Leo                | leoschwab#0173              | [@leoschwab](https://t.me/leoschwab)                 |                                                 |        |
+| Johnny             | Johnny77#6191               | [@JohnnyTongki](https://t.me/JohnnyTongki)           | (https://twitter.com/TongkiJohnny)              |      |
+| Klim               | klimgeran#4414              | [@klimgeran](https://t.me/klimgeran)                 | [@klimgeran] (https://twitter.com/GeranKlim)    |     |     
+| Leo                | leoschwab#0173              | [@leoschwab](https://t.me/leoschwab)                 | (https://twitter.com/schwab_leonardo)           |        |
 | Marco              | rigel#5123                  | [@Michelinux](https://t.me/Michelinux)               |                                                 |        |
 | Mickie             | mickieann#7934              | [@mickieann](https://t.me/mickieann)                 |                                                 |        |
 | Mikun              | mikunNEM#6130               | [@mikunNEM](https://t.me/mikunNEM)                   |                                                 |        |
@@ -88,4 +90,4 @@ version: 1
 | Spizzerb (Patrick) | spizzerb#1575               | [@spizzerb](https://t.me/spizzerb)                   |                                                 |        |
 | Tolga              | Tolga28#2725                | [@Tlgacelkkk](https://t.me/Tlgacelkkk)               |                                                 |        |
 | Vika               |                             | [@conphv](https://t.me/conphv)                       |                                                 |        |
-| Yuta               |                             | [@yutankmr](https://t.me/yutankmr)                   |                                                 |        |
+| Yuta               |                             | [@yutankmr](https://t.me/yutankmr)                   | (https://twitter.com/yutasoCrypto)              |        |
