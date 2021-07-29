@@ -28,13 +28,13 @@
               <div class="dropdown-content">
                 {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
                   {% for p in pages %}
-                    <a href="{{ p.url }}" class="{{ p.lang }}">{{ site.data.languages[p.lang].language-label }}</a>
+                    <a href="{{ p.url | relative_url }}" class="{{ p.lang }}">{{ site.data.languages[p.lang].language-label }}</a>
                   {% endfor %}
               </div>
             </div>
           </div>
 
-          <h1 id="project_title"><a href="/{{ page.lang }}">
+          <h1 id="project_title"><a href="{{ site.baseurl }}/{{ page.lang }}">
             {{ site.data.languages[page.lang].site-title | default: site.data.languages["en"].site-title }}
           </a></h1>
           <h2 id="project_tagline">{{ site.data.languages[page.lang].site-description | default: site.data.languages["en"].site-description }}</h2>
@@ -56,7 +56,7 @@
           <div class="outdated_warning">
             <span style="font-size:x-large">⚠️</span><br/>
             {{ site.data.languages[page.lang].outdated-warning }}<br/>
-            <a href="{{ orgp[0].url }}">{{ site.data.languages[page.lang].outdated-see-original }}</a>
+            <a href="{{ orgp[0].url | relative_url }}">{{ site.data.languages[page.lang].outdated-see-original }}</a>
           </div>
         {% endif %}
 

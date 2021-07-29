@@ -12,7 +12,7 @@
         {% assign tp=site.pages | where: "ref", p.ref | where:"lang", page.lang %}
         {% if tp.size > 0 %}
             <li>
-                <a href="{{ tp[0].url }}">{{ tp[0].title }}</a>
+                <a href="{{ tp[0].url | relative_url }}">{{ tp[0].title }}</a>
                 {% if tp[0].version != p.version %}
                 <span style="float:right">⚠️ {{site.data.languages[page.lang].outdated-translation}}</span>
                 {% endif %}
@@ -21,7 +21,7 @@
             </li>
         {% else %}
             <li class="missing_translation">
-                <a href="{{ p.url }}">{{ p.title }}</a>
+                <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
                 <span style="float:right">⚠️ {{site.data.languages[page.lang].missing-translation}}</span>
                 <br/>
                 {{ p.description }}
