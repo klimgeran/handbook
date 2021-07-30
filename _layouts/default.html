@@ -22,15 +22,13 @@
             </a>
           {% endif %}
 
-          <div style="float: right" text-color="white">
-            <div class="dropdown">
-              <button class="dropbtn">Language 🌐</button>
-              <div class="dropdown-content">
-                {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-                  {% for p in pages %}
-                    <a href="{{ p.url | relative_url }}" class="{{ p.lang }}">{{ site.data.languages[p.lang].language-label }}</a>
-                  {% endfor %}
-              </div>
+          <div class="dropdown_menu">
+            <button class="dropdown_button">Language 🌐</button>
+            <div class="dropdown_content">
+              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                {% for p in pages %}
+                  <a href="{{ p.url | relative_url }}" class="{{ p.lang }}">{{ site.data.languages[p.lang].language-label }}</a>
+                {% endfor %}
             </div>
           </div>
 
