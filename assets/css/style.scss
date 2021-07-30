@@ -120,7 +120,7 @@ td {
 }
 
 /* Back to top button */
-#BackToTopButton {
+#back_to_top_button {
   display: none;
   position: fixed;
   bottom: 20px;
@@ -135,6 +135,6 @@ td {
   padding: 15px;
   border-radius: 4px;
 }
-#BackToTopButton:hover {
+#back_to_top_button:hover {
   background-color: #800080;
 }
