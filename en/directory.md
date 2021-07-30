@@ -10,7 +10,7 @@ version: 1
 
 <!-- Customize CSS because of the very wide table -->
 <style>
-  #main_content {max-width:fit-content;} /* Allow main content's width to go out of bounds */
+  #main_content {max-width:fit-content;overflow-x:auto;} /* Allow main content's width to go out of bounds */
   table {display:block; overflow:auto; white-space: nowrap;} /* Table is a solid block, scrolling if necessary */
 </style>
 
