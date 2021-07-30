@@ -60,7 +60,28 @@
 
         <h1>{{ page.title }}</h1>
         {{ page.description }}
-        {{ content }}
+
+        {% comment %} <!--
+          Crude content parser to inject Glossary tooltips. Don't judge me.
+          "content" is already HTML so this is bound to go very wrong if Glossary words appear inside HTML tags.
+        --> {% endcomment %}
+        {% assign glossary = site.pages | where:"ref", "glossary" | where:"lang", page.lang | first %}
+        {% if glossary == null %}
+          {% assign glossary = site.pages | where:"ref", "glossary" | where:"lang", "en" | first %}
+        {% endif %}
+        {% assign words = content | replace:'<', ' <' | replace:'>', '> ' | split:' ' %}
+        {%- for word in words -%}
+          {%- assign word_clean = word | strip_html | strip_newline | downcase |
+            remove:'(' | remove:')' | remove:'[' | remove:']' | remove:'^' | remove:'-' | remove:'.' | remove:',' | remove:'!' | remove:'?' |
+            remove:'0' | remove:'1' | remove:'2' | remove:'3' | remove:'4' | remove:'5' | remove:'6' | remove:'7' | remove:'8' | remove:'9' -%}
+          {%- assign size = word_clean | size | minus: 1 -%}
+          {%- assign word_clean_singular = word_clean | slice: 0, size -%}
+          {%- if glossary.terms[word_clean] != null or glossary.terms[word_clean_singular] != null -%}
+            <span class="tooltip"><span class="tooltiptext">{{ glossary.terms[word_clean] | default: glossary.terms[word_clean_singular] }}</span>{{ word }}</span>
+          {%- else -%}
+            {{ word }}
+          {%- endif %} {% endfor %}
+
       </section>
     </div>
 
