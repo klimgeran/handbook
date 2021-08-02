@@ -146,20 +146,31 @@ td {
   border-bottom: 1px dotted #44004e;
   cursor: help;
 }
+.tooltip:hover {
+  border-bottom: 1px solid #44004e;
+}
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 320px;
+  width: 0px;
+  overflow: hidden;
   background-color: #44004e;
   color: #c0c0c0;
   text-align: center;
   border: 1px solid white;
   border-radius: 6px;
-  padding: 5px 0;
+  padding: 5px;
   position: absolute;
   z-index: 1;
   bottom: 100%;
   left: 50%;
+}
+.tooltip .tooltip_left {
+  width: 160px;
   margin-left: -160px;
+}
+.tooltip .tooltip_right {
+  width: 160px;
+  margin-left: 0px;
 }
 .tooltip .tooltiptext strong {
   color: white;
@@ -167,16 +178,6 @@ td {
 .tooltip .tooltiptext code {
   color: white;
   background-color: #800080;
-}
-.tooltip .tooltiptext::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 50%;
-  margin-left: -5px;
-  border-width: 5px;
-  border-style: solid;
-  border-color: #44004e transparent transparent transparent;
 }
 .tooltip:hover .tooltiptext {
   visibility: visible;
