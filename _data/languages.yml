@@ -2,7 +2,7 @@ en:
   language-label: English
   site-title: The Symbol Handbook
   site-description: Everything you need to know about the Symbol Syndicate.
-  edit-on-github: Edit on GitHub
+  edit-on-github: Edit ✎
   missing-translation: Missing translation
   outdated-translation: Outdated translation
   outdated-warning: The translation of this page is outdated and some content might not be correct.
@@ -80,7 +80,7 @@ ru:
   language-label: Русский
   site-title: Справочник Symbol
   site-description: Это то, что вы найдете в справочнике Symbol.
-  edit-on-github: Редактировать на GitHub
+  edit-on-github: Редактировать ✎
   missing-translation: Перевод отсутствует
   outdated-translation: Устаревшая версия перевода
   outdated-warning: Перевод этой страницы устарел, и некоторое содержание может быть неверным.
