@@ -161,7 +161,7 @@ td {
   overflow: hidden;
   background-color: #44004e;
   color: #c0c0c0;
-  text-align: center;
+  text-align: left;
   border: 1px solid white;
   border-radius: 6px;
   padding: 5px;
@@ -187,4 +187,22 @@ td {
 }
 .tooltip:hover .tooltiptext {
   visibility: visible;
+}
+
+.glossary_category {
+  font-size: small;
+  color: gray;
+}
+.glossary_top_row {
+  border-top: 1px solid gray;
+}
+.glossary_bottom_row {
+  border-top: none;
+}
+.glossary_bottom_row.glossary_term {
+  visibility: hidden;
+}
+.glossary_separator {
+  display: block;
+  border-bottom: 1px solid gray
 }

@@ -12,8 +12,13 @@
         {%- assign word_clean = word | strip_html | downcase |
             remove:'(' | remove:')' | remove:'[' | remove:']' | remove:'^' | remove:'-' | remove:'.' | remove:',' | remove:'!' | remove:'?' | remove:"'" |
             remove:'0' | remove:'1' | remove:'2' | remove:'3' | remove:'4' | remove:'5' | remove:'6' | remove:'7' | remove:'8' | remove:'9' -%}
-        {%- if glossary.terms[word_clean] != null -%}
-            <span class="tooltip" onmouseenter="placeTooltip(this)"><span class="tooltiptext">{{ glossary.terms[word_clean] }}</span>{{ word }}</span>
+        {%- assign term = glossary.terms[word_clean] -%}
+        {%- if term != null -%}
+            <span class="tooltip" onmouseenter="placeTooltip(this)"><span class="tooltiptext">{{ word_clean | upcase }}<br/>
+            {%- for meaning in term -%}
+                <span class="glossary_separator"></span><span class="glossary_category">{{ meaning[0] }}</span><br/>{{ meaning[1] }}<br/>
+            {%- endfor -%}
+            </span>{{ word }}</span>
         {%- else -%}
             {{ word }}
         {%- endif %} {% endfor %}
