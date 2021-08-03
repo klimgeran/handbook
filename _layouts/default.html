@@ -75,10 +75,11 @@
     <script>
       // Place the tooltip
       function placeTooltip(elem) {
+          elem.childNodes[0].style.width = elem.parentElement.offsetWidth / 2 + "px";
         if (elem.offsetLeft < elem.parentElement.offsetWidth / 2) {
-          elem.childNodes[0].className = "tooltiptext tooltip_right";
+          elem.childNodes[0].style.marginLeft = 0;
         } else {
-          elem.childNodes[0].className = "tooltiptext tooltip_left";
+          elem.childNodes[0].style.marginLeft = -elem.parentElement.offsetWidth / 2 + "px";
         }
       }
     </script>
