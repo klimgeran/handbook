@@ -34,5 +34,8 @@
             </span>{{ word }}</span>
         {%- else -%}
             {{ word }}
+            {%- if context != null -%}
+                _{{ context }}
+            {%- endif -%}
         {%- endif %} {% endfor %}
 {% endfor %}
