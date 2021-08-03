@@ -8,16 +8,29 @@
 {% assign lines = include.md_content | newline_to_br | split:'<br />' %}
 {% for line in lines -%}
     {%- assign words = line | split:' ' -%}
-    {%- for word in words -%}
+    {%- for word_org in words -%}
+        {%- assign word = word_org -%}
+        {%- assign context = null -%}
+        {%- if word_org contains "_" -%}
+            {%- assign parts = word_org | split:"_" -%}
+            {%- assign word = parts[0] -%}
+            {%- assign context = parts[1] | downcase |
+            remove:'(' | remove:')' | remove:'[' | remove:']' | remove:'^' | remove:'-' | remove:'.' | remove:',' | remove:'!' | remove:'?' | remove:"'" |
+            remove:'0' | remove:'1' | remove:'2' | remove:'3' | remove:'4' | remove:'5' | remove:'6' | remove:'7' | remove:'8' | remove:'9' -%}
+        {%- endif -%}
         {%- assign word_clean = word | strip_html | downcase |
             remove:'(' | remove:')' | remove:'[' | remove:']' | remove:'^' | remove:'-' | remove:'.' | remove:',' | remove:'!' | remove:'?' | remove:"'" |
             remove:'0' | remove:'1' | remove:'2' | remove:'3' | remove:'4' | remove:'5' | remove:'6' | remove:'7' | remove:'8' | remove:'9' -%}
         {%- assign term = glossary.terms[word_clean] -%}
         {%- if term != null -%}
             <span class="tooltip" onmouseenter="placeTooltip(this)"><span class="tooltiptext">{{ word_clean | upcase }}<br/>
-            {%- for meaning in term -%}
-                <span class="glossary_separator"></span><span class="glossary_category">{{ meaning[0] }}</span><br/>{{ meaning[1] }}<br/>
-            {%- endfor -%}
+            {%- if context != null -%}
+                <span class="glossary_separator"></span><span class="glossary_category">{{ context }}</span><br/>{{ term[context] }}<br/>
+            {%- else -%}
+                {%- for meaning in term -%}
+                    <span class="glossary_separator"></span><span class="glossary_category">{{ meaning[0] }}</span><br/>{{ meaning[1] }}<br/>
+                {%- endfor -%}
+            {%- endif -%}
             </span>{{ word }}</span>
         {%- else -%}
             {{ word }}
