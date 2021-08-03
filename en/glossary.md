@@ -6,6 +6,7 @@ lang: en
 ref: glossary
 order: 100
 version: 1
+notooltips: true
 terms: # Keep them sorted!
   agora: "The codename for a decentralized, peer-to-peer marketplace built on Symbol to enable the trading of mosaics."
   ama: "Ask Me Anything. An open questions session."
@@ -33,7 +34,7 @@ terms: # Keep them sorted!
   eth: "Ethereum"
   evm: "Ethereum Virtual Machine"
   fft: "Fast Fourier Transform"
-  flashbot: "?"
+  flashbots: "A research and development organization working on mitigating the negative effects of MEV extraction techniques."
   frontrunning: "In context of cryptocurrencies: Trying to include <em>your</em> transaction <em>in front of</em> some other transaction. This is more important in case of DeFi markets, where gains can be made from front-running."
   fwiw: "For What It’s Worth."
   hermès: "Messenger of the Gods. Codename for Symbol’s next wallet project."

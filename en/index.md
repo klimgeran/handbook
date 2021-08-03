@@ -2,6 +2,7 @@
 title: "Welcome aboard!"
 lang: en
 ref: welcome
+notooltips: true
 ---
 
 ![Welcome](../images/welcome.jpg){:width="100%"}
