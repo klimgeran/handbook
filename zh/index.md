@@ -2,6 +2,7 @@
 title: "欢迎上车！"
 lang: zh
 ref: welcome
+notooltips: true
 ---
 
 ![Welcome](../images/welcome.jpg){:width="100%"}

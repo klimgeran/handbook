@@ -115,7 +115,7 @@ terms: # Keep them sorted!
     crypto: "Proof of Stake. A consensus protocol."
   pow:
     crypto: "Proof of Work. A consensus protocol."
-  rug pull:
+  rugpull:
     crypto: "A malicious maneuver where cryptocurrency developers abandon a project and run off with the funds."
   sandwitch:
     crypto: "A type of front-running technique that’s popular in DeFi. To make a sandwich, you find a pending transaction in the network and then try to surround the network by placing one order <em>just</em> before the transaction (front-running) and one order just after it (back-running)."
