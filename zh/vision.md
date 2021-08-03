@@ -94,10 +94,8 @@ Symbol的未来设想为位于定制链世界中心的枢纽和交换层,并且�
 众所皆知,中心化结构通常与分散式系统的开发不一致。比特币的引入是对中心化机构、系
 统失败的直接回应,从那时起,权力分配一直是迄今为止所有区块链网络的设计目标。
 
-<div style="float: right; width: 50%; margin-left: 8px">
 <a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
-</a></div>
+<img src="../images/Symbol%20Venn%20Diagram%201.png" class="side_image"/></a>
 
 无论如何,中心化自然会在一段时间后发生
 ,无论是作为专业化的副产品还是规模经济。两种工作量证明已被证明都是正确的(通过矿
@@ -128,10 +126,8 @@ Syndicates在很大程度上被激励将区块链上的集体成功高于自己�
 这其中的大使是核心人物——Syndicate的声音。大使们很快就会被他们的沟通和关系技巧所
 识别。他们致力于协调混乱并支持其代表社区的想法。
 
-<div style="float: right; width: 50%; margin-left: 8px">
 <a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
-</a></div>
+<img src="../images/Syndicate%20Matching%20dark.png" class="side_image"/></a>
 
 他们通常是翻译、作家和教育者 —— 在某些协议中,他们是“生态系统代表”; 或是“网路
 协调员”。在 Symbol,大使既可以当选也可以通过委托收获获得资金。无论

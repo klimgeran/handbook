@@ -55,10 +55,8 @@ La teoría en los negocios usualmente define a la *disrupción* como la *innovac
 
 Es bien sabido que las estructuras centralizadas a menudo están en contradicción con el desarrollo de sistemas descentralizados. La introducción de Bitcoin fue una respuesta directa a los fallos sistemáticos de una autoridad centralizada, y desde entonces la distribución del poder de decisión sobre el proceso ha seguido siendo objetivo clave de diseño en todas las redes blockchain hasta la fecha.
 
-<div style="float: right; width: 50%; margin-left: 8px">
 <a href="../images/Symbol%20Venn%20Diagram%201.png" target="_blank">
-<img src="../images/Symbol%20Venn%20Diagram%201.png" width="100%" alt="Symbol Venn diagram"/>
-</a></div>
+<img src="../images/Symbol%20Venn%20Diagram%201.png" class="side_image"/></a>
 
 En cualquier caso, la centralización se produce naturalmente después de cierto período [^7], ya sea como un subproducto de la especialización o las economías de escala. Esto ha ocurrido tanto en la prueba de trabajo -PoW- (a través de *pools* mineros, concentración de *hashrate* y *hardware* especializado) como en la prueba de participación -PoS- (por medio de la concentración de la riqueza y la concentración de la infraestructura del validador). Por lo tanto, la resiliencia en blockchain proviene en gran medida de garantizar que las partes en el ecosistema estén incentivadas para colaborar entre ellas en lugar de coludir o competir. Esta es la base de la teoría de juego y dominar cabalmente este concepto es clave para el éxito del diseño de sistemas.
 
@@ -76,10 +74,8 @@ Los embajadores se identifican rápidamente por sus habilidades de comunicación
 
 Paralelamente a la cosecha delegada hay otro concepto que se puede aplicar al sistema en general: la financiación cuadrática. Propuesto por primera vez en el *radicalismo liberal* por Buterin, Hitzing y Weyl [^10], la financiación cuadrática busca aplicar el concepto de voto cuadrático a la financiación de bienes públicos. En economía, un bien público se define como un bien que *no es excluible ni excluyente*. No excluible significa que un individuo no puede ser privado del uso; y no excluyente significa que el uso por un individuo no reduce la disponibilidad del bien para otros. Algunos ejemplos comúnmente referenciados de bienes públicos son el software de código abierto (como los protocolos blockchain, Internet o los sistemas operativos); educación gratuita (como boletines informativos, *podcasts* o documentación técnica); y servicios gratuitos (como la televisión y la radio públicas).
 
-<div style="float: right; width: 50%; margin-left: 8px">
 <a href="../images/Syndicate%20Matching%20dark.png" target="_blank">
-<img src="../images/Syndicate%20Matching%20dark.png" width="100%" alt="Syndicate matching"/>
-</a></div>
+<img src="../images/Syndicate%20Matching%20dark.png" class="side_image"/></a>
 
 En **Symbol**, la metodología cuadrática es capaz de resolver un desafío vital que tenemos en la financiación de proyectos: ¿cómo se determina qué proyecto beneficiaría más a las personas? Esto se logra al permitir que las personas "adquieran su derecho a voto" sobre qué proyectos deben financiarse a continuación y amplifica las donaciones de contrapartida con un gremio dedicado a la financiación de bienes públicos. Hay rendimientos decrecientes para los votos adicionales, lo que ayuda a descentralizar el poder lejos de las empresas de capital de riesgo, las grandes -cripto- ballenas y los cabilderos del poder central. En resumen, el número de contribuciones individuales importa más que la cantidad total financiada por una persona.
 

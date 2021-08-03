@@ -65,7 +65,10 @@ pre {
     box-shadow: none;
 }
 
-img {
+.side_image {
+  float: right;
+  width: 50%;
+  margin-left: 8px;
   padding: 0px;
 }
 
