@@ -18,7 +18,7 @@
         <header class="inner">
           {% if site.github.is_project_page %}
             <a id="forkme_banner" href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path }}" target="_blank">
-              {{ site.data.languages[page.lang].edit-on-github | default: site.data.languages["en"].edit-on-github }}
+              {{ site.data.languages[page.lang].edit-on-github | default: site.data.languages["en"].edit-on-github }} ✎
             </a>
           {% endif %}
 
@@ -54,7 +54,10 @@
           <div class="outdated_warning">
             <span style="font-size:x-large">⚠️</span><br/>
             {{ site.data.languages[page.lang].outdated-warning }}<br/>
-            <a href="{{ orgp.url | relative_url }}">{{ site.data.languages[page.lang].outdated-see-original }}</a>
+            <a href="{{ orgp.url | relative_url }}">{{ site.data.languages[page.lang].outdated-see-original }}</a> |
+            <a href="{{ site.github.repository_url }}/edit/gh-pages/{{ page.path }}" target="_blank">
+              {{ site.data.languages[page.lang].edit-on-github | default: site.data.languages["en"].edit-on-github }}
+            </a>
           </div>
         {% endif %}
 
