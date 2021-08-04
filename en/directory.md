@@ -8,6 +8,9 @@ order: 100
 version: 1
 ---
 
+[![hackmd-github-sync-badge](https://hackmd.io/afJzrT-RTAamp4uQTTLhHw/badge)](https://hackmd.io/afJzrT-RTAamp4uQTTLhHw)
+
+
 <!-- Customize CSS because of the very wide table -->
 <style>
   #main_content {max-width:fit-content;overflow-x:auto;} /* Allow main content's width to go out of bounds */
@@ -89,3 +92,5 @@ version: 1
 | Tolga              | Tolga28#2725                | [@Tlgacelkkk](https://t.me/Tlgacelkkk)               |                                                         |        |
 | Vika               |                             | [@conphv](https://t.me/conphv)                       |                                                         |        |
 | Yuta               |                             | [@yutankmr](https://t.me/yutankmr)                   | [@yutasoCrypto](https://twitter.com/yutasoCrypto)       |        |
+
+###### tags: `Handbook`
