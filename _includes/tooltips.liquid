@@ -10,11 +10,13 @@
     {%- assign words = line | split:' ' -%}
     {%- for word_org in words -%}
         {%- assign word = word_org -%}
+        {%- assign context_org = null -%}
         {%- assign context = null -%}
         {%- if word_org contains "_" -%}
-            {%- assign parts = word_org | split:"_" -%}
+            {%- assign parts = word_org | split_first:"_" -%}
             {%- assign word = parts[0] -%}
-            {%- assign context = parts[1] | downcase |
+            {%- assign context_org = parts[1] -%}
+            {%- assign context = context_org | downcase |
             remove:'(' | remove:')' | remove:'[' | remove:']' | remove:'^' | remove:'-' | remove:'.' | remove:',' | remove:'!' | remove:'?' | remove:"'" |
             remove:'0' | remove:'1' | remove:'2' | remove:'3' | remove:'4' | remove:'5' | remove:'6' | remove:'7' | remove:'8' | remove:'9' -%}
         {%- endif -%}
@@ -34,8 +36,8 @@
             </span>{{ word }}</span>
         {%- else -%}
             {{ word }}
-            {%- if context != null -%}
-                _{{ context }}
+            {%- if context_org != null -%}
+                _{{ context_org }}
             {%- endif -%}
         {%- endif %} {% endfor %}
 {% endfor %}
