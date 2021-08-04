@@ -63,6 +63,13 @@ footer a {
   color: #44004e;
 }
 
+.toc_warning {
+  float: right;
+}
+.toc_warning::before {
+  content: "⚠️ ";
+}
+
 pre {
     padding: 0px;
     box-shadow: none;
