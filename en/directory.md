@@ -10,7 +10,6 @@ version: 1
 
 [![hackmd-github-sync-badge](https://hackmd.io/afJzrT-RTAamp4uQTTLhHw/badge)](https://hackmd.io/afJzrT-RTAamp4uQTTLhHw)
 
-
 <!-- Customize CSS because of the very wide table -->
 <style>
   #main_content {max-width:fit-content;overflow-x:auto;} /* Allow main content's width to go out of bounds */
