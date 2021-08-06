@@ -18,7 +18,7 @@ version: 1
 
 Naming is somewhat based on [Java Naming Convention](http://www.oracle.com/technetwork/java/codeconventions-135099.html), the difference is in consts, mainly due to C Preprocessor.
 
-1. Dilenames: should match name of a class or namespace\
+1. Filenames: should match name of a class or namespace\
    `NodeEndpoint.h` - if there are more classes in file, filename should match the most important,
 
 2. Name of: structs, classes, enums (all non-basic types)\
