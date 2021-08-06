@@ -1,12 +1,23 @@
-{% comment %} <!--
+{% comment %}
     Crude content parser to inject Glossary tooltips. Don't judge me.
---> {% endcomment %}
+{% endcomment %}
 {% assign glossary = site.pages | where:"ref", "glossary" | where:"lang", page.lang | first %}
 {% if glossary == null %}
     {% assign glossary = site.pages | where:"ref", "glossary" | where:"lang", "en" | first %}
 {% endif %}
 {% assign lines = include.md_content | newline_to_br | split:'<br />' %}
+{% assign one_space = " " %}
 {% for line in lines -%}
+
+    {%- comment -%}
+        Detect indentation and preserve it (because we're going to destroy it when splitting by ' ').
+    {%- endcomment -%}
+    {%- assign line_arr = line | split:'' | slice:1,1000-%}
+    {%- for char in line_arr -%}
+        {%- if char != ' ' -%}{%- break -%}{%- endif -%}
+        {{ one_space }}
+    {%- endfor -%}
+
     {%- assign words = line | split:' ' -%}
     {%- for word_org in words -%}
         {%- assign word = word_org -%}

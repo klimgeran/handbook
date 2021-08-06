@@ -18,26 +18,34 @@ version: 1
 
 Naming is somewhat based on [Java Naming Convention](http://www.oracle.com/technetwork/java/codeconventions-135099.html), the difference is in consts, mainly due to C Preprocessor.
 
-1. Filenames: should match name of a class or namespace\
-   `NodeEndpoint.h` - if there are more classes in file, filename should match the most important,
+1. Filenames: should match name of a class or namespace
 
-2. Name of: structs, classes, enums (all non-basic types)\
+   `NodeEndpoint.h` - if there are more classes in file, filename should match the most important
+
+2. Name of: structs, classes, enums (all non-basic types)
+
    `MyEnum`, `NodeEndpoint` - should be nouns
 
-3. Static and free function names\
+3. Static and free function names
+
    'DoSomething' - should contain verb
 
-4. Member function names\
-   `bootKey` - for accessors and modifiers (no get or set prefix)\
+4. Member function names
+
+   `bootKey` - for accessors and modifiers (no get or set prefix)
+
    `doSomething` - for other functions should contain verb
 
-5. Global, local and class member\
+5. Global, local and class member
+
    **constants**, enum fields `State_Data_Continue` - words capitalized, delimited with an underline '_'
 
-6. Macros, #defines\
+6. Macros, #defines
+
    `INVALID_SIZE_T`, `MAX_ULONGLONG` - word in upper-case, delimited with underline '_'
 
-7. Variables, fields - same as methods\
+7. Variables, fields - same as methods
+
    `bytesSend`, `headlessCamelCase`
 
 8. Prefix class members/fields with an "m_" (I actually haven't been following that rule for a long time, but it makes reviewing the code much faster - especially when looking at commits, not within an IDE)
@@ -58,7 +66,8 @@ Naming is somewhat based on [Java Naming Convention](http://www.oracle.com/tech
 
 1. Always use "/" in includes and NEVER "\", (C standard WG14/N1256 point 6.4.7, C++ standard ISO/IEC 14882:2003 point 2.8, C++ standard ISO/IEC 14882:2011 (from working draft N3225) point 2.9)
 
-2. Number of include files in header file should be minimal, that is: **ONLY**, that what's actually needed in `.h`\
+2. Number of include files in header file should be minimal, that is: **ONLY**, that what's actually needed in `.h`
+
    What's needed in `.cpp` file should only be included in `.cpp`.
 
 3. Order of includes (top-down)
