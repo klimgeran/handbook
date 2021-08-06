@@ -114,10 +114,10 @@ There are three ways to provide content for this repository, from simpler to mor
 
   The preview you get on HackMD won't match the final result because it lacks style information.
 
-  These pages must be tagged `Handbook` so they are properly categorized in the HackMD directory. Add this at the end of the document:
+  These pages must be tagged `Handbook` so they are properly categorized in the HackMD directory. Add also either `Philosophy`, `Education` or `Organization` matching the section in the handbook where this page belongs. To do this, add this line at the end of the document:
 
   ```markdown
-  ###### tags: `Handbook`
+  ###### tags: `Handbook` `Organization`
   ```
 
 - **Directly on GitHub**: Changes can be done directly on GitHub using its editor. It's not as comfortable as HackMD but it has preview too (without style information).
