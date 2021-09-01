@@ -195,11 +195,11 @@ Use any tag you want, but please look at the other documents and try to be consi
 
 ## NIS1 documentation
 
-**Site** | [docs.nem.io/en](https://docs.nem.io/en) <br> [nemproject.github.io](https://nemproject.github.io/)
-**Source repo** | ?
-**Host** | ?
-**Engine** | ?
-**Format** | ?
+**Site** | General: [docs.nem.io/en](https://docs.nem.io/en) <br/> API: [nemproject.github.io](https://nemproject.github.io/)
+**Source repo** | General: [github.com/saulgray/nemioDev](https://github.com/saulgray/nemioDev) <br/> API: [https://github.com/NemProject/NemProject.github.io](github.com/NemProject/NemProject.github.io)
+**Host** | General: ? <br/> API: [GitHub pages](https://github.com/NemProject/NemProject.github.io)
+**Engine** | General: [Grav](https://getgrav.org/) <br/> API: Static HTML page
+**Format** | General: [Markdown](https://www.markdownguide.org/) <br/> API: HTML
 **Intended readers** | The world at large.
 **Intended writers** | The Symbol technical writers.
 **Editing workflow** | ?
@@ -207,4 +207,10 @@ Use any tag you want, but please look at the other documents and try to be consi
 **Maintainers** | ?
 {: .info_table }
 
-This section is still being figured out. Stay tuned.
+This documentation is rather old and parts of it are still being figured out. Stay tuned.
+
+### Content
+
+- There are missing sections due to broken links (like [www.nem.ninja](http://www.nem.ninja/org.nem.core/) or [mijin.usayama.com](http://mijin.usayama.com/apis/io)).
+- Tutorials are actually hosted on the Forum, and some of them are badly mangled ([example](https://forum.nem.io/t/how-to-setup-an-azure-account-for-a-nem-supernode/3755)).
+- Some guides are hosted on blog posts ([example](https://blog.nem.io/first-ever-p2p-time-sync-for-nodes/)).
