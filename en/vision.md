@@ -5,7 +5,7 @@ category: philosophy
 lang: en
 ref: vision
 order: 1
-version: 1
+version: 2
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
@@ -59,7 +59,7 @@ It’s well known that centralized structures are often at odds with the develop
 
 Regardless, centralization naturally occurs after a period of time[^7], whether as a byproduct of specialization or economies of scale. This has proven to be true in both proof-of-work (through mining pools, hashrate concentration and specialized hardware) and proof-of-stake (through concentration of wealth and concentration of validator infrastructure). Thus, resilience in blockchain largely comes from ensuring parties in the ecosystem are incentivized to *collaborate* rather than collude. This is the basis of game theory and a mastery of this is key to successful system design.
 
-In **Symbol**, we achieve collaboration through the concept of *cabals.* Traditionally, a syndicate is a self-organizing group of individuals, corporations or companies that work together to achieve a common mission. Syndicates are not a new concept in cryptocurrency — non-profits like the Ethereum Foundation and Tezos Foundation can be informally classified as syndicates; as well as decentralized autonomous organizations (DAOs) and informal working or research groups. Flashbots[^8] — the research and development organization that focuses on miner-extractable value (MEV) in DeFi — follows the *pirate hacker collective*, an informal syndicate based on the pirate cooperative. Syndicates can even be observed external to cryptocurrency: Valve, a multi-billion dollar entertainment and hardware company follows a non-hierarchical design (“Flatland”) with no middle management or formal leadership. [^9]
+In **Symbol**, we achieve collaboration through the concept of *syndicates*. Traditionally, a syndicate is a self-organizing group of individuals, corporations or companies that work together to achieve a common mission. Syndicates are not a new concept in cryptocurrency — non-profits like the Ethereum Foundation and Tezos Foundation can be informally classified as syndicates; as well as decentralized autonomous organizations (DAOs) and informal working or research groups. Flashbots[^8] — the research and development organization that focuses on miner-extractable value (MEV) in DeFi — follows the *pirate hacker collective*, an informal syndicate based on the pirate cooperative. Syndicates can even be observed external to cryptocurrency: Valve, a multi-billion dollar entertainment and hardware company follows a non-hierarchical design (“Flatland”) with no middle management or formal leadership. [^9]
 
 Today, we can observe three naturally formed syndicates: infrastructure syndicates (nodes and their human operators); protocol syndicates (developers and system architects); and user syndicates (dApps and individuals). Syndicates are largely incentivized to put the collective success of the chain above their own individual desires:
 
