@@ -124,8 +124,12 @@ terms: # Keep them sorted!
   token:
     economy: "A voucher or gift card redeemable for items of value."
     crypto: "Certain types of cryptocurrency, typically different from the main currency of a blockchain."
+  tlc:
+    internet: "Tender Loving Care"
   tps:
     crypto: "Transactions Per Second"
+  usp:
+    economy: "Unique Selling Proposition or Unique Selling Point. A characteristic of a product that can be used in advertising to differentiate it from its competitors."
   xem:
     symbol: "NEM’s NIS1 blockchain native currency"
   xym:
