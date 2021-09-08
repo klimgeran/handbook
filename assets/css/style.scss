@@ -181,11 +181,12 @@ td {
 .tooltip {
   position: relative;
   display: inline-block;
-  border-bottom: 1px dotted #44004e;
+  text-decoration: underline; // IExplorer
+  text-decoration: underline dotted #800080 1px;
   cursor: help;
 }
 .tooltip:hover {
-  border-bottom: 1px solid #44004e;
+  text-decoration: underline solid #800080 1px;
 }
 .tooltip .tooltiptext {
   visibility: hidden;
