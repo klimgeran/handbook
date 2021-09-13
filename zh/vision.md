@@ -5,7 +5,7 @@ category: philosophy
 lang: zh
 ref: vision
 order: 1
-version: 1
+version: 2
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
@@ -103,7 +103,7 @@ Symbol的未来设想为位于定制链世界中心的枢纽和交换层,并且�
 块链的弹性很大程度来​​自于确保生态系统中的各方因为受到激励而合作,不是勾结。
 这是博弈论的基础,掌握它是成功系统设计的关键。
 
-在 Symbol ,我们透过阴谋的概念实现协作。传统上,Syndicate 是由个人、组织或公司组成
+在 Symbol ,我们透过Syndicate的概念实现协作。传统上,Syndicate 是由个人、组织或公司组成
 的自组织团体,他们努力达成共同的使命。 Syndicate 在加密货币世界中并不是一个新概念
 —— 像以太坊基金会和Tezos 基金会这样的非营利组织可以非正式地归类为Syndicate;以及
 去中心化自治组织(DAO)和非正式工作或研究小组。 Flashbots(注记7.) - 专注于去中心化

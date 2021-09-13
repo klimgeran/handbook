@@ -5,7 +5,7 @@ category: philosophy
 lang: pt
 ref: vision
 order: 1
-version: 1
+version: 2
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
@@ -59,7 +59,7 @@ Na teoria dos negócios, disrupção é definida como *inovação que cria um no
 
 Independentemente disso, a centralização ocorre naturalmente após um período de tempo [^7], seja como um subproduto da especialização ou como economias de escala. Isso provou ser verdadeiro tanto na prova de trabalho (por meio de pools de mineração, concentração de hashrate e hardware especializado) quanto na prova de aposta (por meio da concentração de riqueza e concentração da infraestrutura do validador). Assim, a resiliência no blockchain vem em grande parte de garantir que as partes no ecossistema sejam incentivadas a colaborar, em vez de conspirar. Esta é a base da teoria dos jogos e seu domínio é a chave para um design de sistema bem-sucedido
 
-Na **Symbol**, alcançamos a colaboração por meio do conceito de *cabalas.* Tradicionalmente, um sindicato é um grupo auto-organizado de indivíduos, corporações ou empresas que trabalham juntos para cumprir uma missão comum. Os sindicatos não são um conceito novo em criptomoeda - organizações sem fins lucrativos como a Ethereum Foundation e a Tezos Foundation podem ser classificadas informalmente como sindicatos; bem como organizações autônomas descentralizadas (DAOs) e grupos informais de trabalho ou pesquisa. Flashbots[^8] - a organização de pesquisa e desenvolvimento que se concentra em miner-extractable value (MEV) em DeFi - segue o *coletivo pirata hacker*, um sindicato informal baseado na cooperativa pirata. Os sindicatos podem até mesmo ser observados fora da criptomoeda: Valve, uma empresa de entretenimento e hardware de vários bilhões de dólares segue um design não hierárquico (“Flatland”) sem gerenciamento intermediário ou liderança formal [^9].
+Na **Symbol**, alcançamos a colaboração por meio do conceito de *sindicatos.* Tradicionalmente, um sindicato é um grupo auto-organizado de indivíduos, corporações ou empresas que trabalham juntos para cumprir uma missão comum. Os sindicatos não são um conceito novo em criptomoeda - organizações sem fins lucrativos como a Ethereum Foundation e a Tezos Foundation podem ser classificadas informalmente como sindicatos; bem como organizações autônomas descentralizadas (DAOs) e grupos informais de trabalho ou pesquisa. Flashbots[^8] - a organização de pesquisa e desenvolvimento que se concentra em miner-extractable value (MEV) em DeFi - segue o *coletivo pirata hacker*, um sindicato informal baseado na cooperativa pirata. Os sindicatos podem até mesmo ser observados fora da criptomoeda: Valve, uma empresa de entretenimento e hardware de vários bilhões de dólares segue um design não hierárquico (“Flatland”) sem gerenciamento intermediário ou liderança formal [^9].
 
 Hoje, podemos observar três sindicatos formados naturalmente: sindicatos de infraestrutura (nós e seus operadores humanos); sindicatos de protocolo (desenvolvedores e arquitetos de sistema); e sindicatos de usuários (dApps e indivíduos). Os sindicatos são amplamente incentivados a colocar o sucesso coletivo da cadeia acima de seus próprios desejos individuais: os
 

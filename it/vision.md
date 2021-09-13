@@ -5,7 +5,7 @@ category: philosophy
 lang: it
 ref: vision
 order: 1
-version: 1
+version: 2
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
@@ -64,7 +64,7 @@ Questo si è dimostrato vero sia per il proof-of-work (attraverso le mining pool
 Pertanto, la resilienza della blockchain deriva in gran parte dalla garanzia che le parti dell'ecosistema siano incentivate nella collaborazione, piuttosto che nello scontro.
 Questa è la base della teoria dei giochi e la sua padronanza è la chiave per il successo della progettazione di sistemi.
 
-In **Symbol**, collaboriamo creando delle *gilde*. Tradizionalmente, una corporazione è un gruppo auto-organizzato di individui, o di società che lavorano insieme per raggiungere un missione comune. Le corporazioni non sono un concetto nuovo nel mondo delle criptovalute: organizzazioni non profit come la Ethereum Foundation e la Tezos Foundation, possono essere informalmente classificate come corporazioni, o anche come organizzazioni autonome decentralizzate (DAO), o come gruppi di lavoro o ancora, come gruppi di ricerca informali.
+In **Symbol**, collaboriamo creando di *corporazione*. Tradizionalmente, una corporazione è un gruppo auto-organizzato di individui, o di società che lavorano insieme per raggiungere un missione comune. Le corporazioni non sono un concetto nuovo nel mondo delle criptovalute: organizzazioni non profit come la Ethereum Foundation e la Tezos Foundation, possono essere informalmente classificate come corporazioni, o anche come organizzazioni autonome decentralizzate (DAO), o come gruppi di lavoro o ancora, come gruppi di ricerca informali.
 Flashbots[^8] - l'organizzazione di ricerca e sviluppo che si concentra sul valore estraibile dai minatori (MEV - miner-extractable value) nella DeFi - ricalca il gruppo di hacker pirati, una corporazione informale, basata sulla cooperazione tra pirati. Si possono anche osservare corporazioni esterne alle criptovalute: Valve, una società multimiliardaria di hardware ed intrattenimento, segue un modello non gerarchico ("Flatland") con nessun middle management o leadership formale.[^9]
 
 Oggi, possiamo osservare tre tipi di corporazioni formatesi naturalmente: corporazione infrastrutturale (nodi e loro operatori umani); corporazione del protocollo (sviluppatori e architetti di sistema); ed utenti (dApp e individui). Le corporazioni, sono ampiamente incentivate a mettere il successo collettivo al di sopra dei propri desideri individuali:
