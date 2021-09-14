@@ -5,7 +5,7 @@ category: philosophy
 lang: id
 ref: vision
 order: 1
-version: 1
+version: 2
 ---
 
 ![Ship cover](../images/ship%20cover%20blank.png){:width="100%"}
@@ -59,7 +59,7 @@ Sudah diketahui bahwa struktur terpusat sering bertentangan dengan pengembangan 
 
 Terlepas dari itu, sentralisasi secara alami terjadi setelah periode [^7] waktu tertentu, baik sebagai produk sampingan dari spesialisasi atau skala ekonomi. Ini telah terbukti benar baik dalam proof-of-work (melalui kumpulan penambangan, konsentrasi hashrate, dan perangkat keras khusus) dan proof-of-stake (melalui konsentrasi kekayaan dan konsentrasi infrastruktur validator). Dengan demikian, ketahanan dalam blockchain sebagian besar berasal dari memastikan pihak-pihak dalam ekosistem diberi insentif untuk berkolaborasi daripada berkolusi. Ini adalah dasar dari teori permainan dan penguasaan ini adalah kunci keberhasilan desain sistem.
 
-Di **Symbol**, kami mencapai kolaborasi melalui konsep komplotan rahasia. Secara tradisional, sindikat adalah kelompok individu, perusahaan atau perusahaan yang mengatur diri sendiri yang bekerja sama untuk mencapai misi bersama. Sindikat bukanlah konsep baru dalam cryptocurrency - organisasi nirlaba seperti Ethereum Foundation dan Tezos Foundation dapat secara informal diklasifikasikan sebagai sindikat; serta organisasi otonom terdesentralisasi (DAO) dan kelompok kerja atau penelitian informal. Flashbots [^8] - organisasi penelitian dan pengembangan yang berfokus pada miner-extractable value (MEV) di DeFi - mengikuti kelompok peretas bajak laut, sebuah sindikat informal yang berbasis pada koperasi bajak laut. Sindikat bahkan dapat diamati di luar cryptocurrency: Valve, perusahaan hiburan dan perangkat keras multi-miliar dolar mengikuti desain non-hierarkis (“Flatland”) tanpa manajemen menengah atau kepemimpinan formal [^9].
+Di **Symbol**, kami mencapai kolaborasi melalui konsep *Sindikat*. Secara tradisional, sindikat adalah kelompok individu, perusahaan atau perusahaan yang mengatur diri sendiri yang bekerja sama untuk mencapai misi bersama. Sindikat bukanlah konsep baru dalam cryptocurrency - organisasi nirlaba seperti Ethereum Foundation dan Tezos Foundation dapat secara informal diklasifikasikan sebagai sindikat; serta organisasi otonom terdesentralisasi (DAO) dan kelompok kerja atau penelitian informal. Flashbots [^8] - organisasi penelitian dan pengembangan yang berfokus pada miner-extractable value (MEV) di DeFi - mengikuti kelompok peretas bajak laut, sebuah sindikat informal yang berbasis pada koperasi bajak laut. Sindikat bahkan dapat diamati di luar cryptocurrency: Valve, perusahaan hiburan dan perangkat keras multi-miliar dolar mengikuti desain non-hierarkis (“Flatland”) tanpa manajemen menengah atau kepemimpinan formal [^9].
 
 Hari ini, kita dapat mengamati tiga sindikat yang terbentuk secara alami: sindikat infrastruktur (node ​​dan operator manusianya); sindikat protokol (pengembang dan arsitek sistem); dan sindikat pengguna (dApps dan individu). Sindikat sebagian besar diberi insentif untuk menempatkan kesuksesan kolektif rantai di atas keinginan individu mereka sendiri:
 
