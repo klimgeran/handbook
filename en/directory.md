@@ -46,7 +46,7 @@ version: 1
 | Sureka Jawahar    | SurekaJawahar#6942  |                                                | [@surekabpm](https://github.com/surekabpm)             |                                                         |             |                                                      |
 | Tim Nan           | tim.#4764           |                                                | [@timmymmit](https://github.com/timmymmit)             |                                                         |             |                                                      |
 | Wayon Blair       | wayonb#0542         | [@wayonb](https://t.me/wayonb)                 | [wayonb](https://github.com/wayonb)                    | [@Wayon](https://twitter.com/wayon)                     |             |                                                      |
-| Xavi Artigas      | SegFaultXavi#7921   | [@segfaultxavi](https://t.me/segfaultxavi)     | [@segfaultxavi](https://github.com/segfaultxavi)       |                                                         |             | [@segfaultxavi](https://hackmd.io/@segfaultxavi)     |
+| Xavi Artigas      | SegFaultXavi#7921   | [@segfaultxavi](https://t.me/segfaultxavi)     | [@segfaultxavi](https://github.com/segfaultxavi)       | [@sigsegvx](https://twitter.com/sigsegvx)               |             | [@segfaultxavi](https://hackmd.io/@segfaultxavi)     |
 
 ## Regional Ambassadors
 
