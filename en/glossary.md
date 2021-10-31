@@ -88,7 +88,7 @@ terms: # Keep them sorted!
   mev:
     crypto: "Miner-Extractable Value - process of reorganising transactions inside a block by miners, to gain <em>something</em> (might be covered by secret contract)"
   mosaic:
-    symbol: "A representation of any kind of value on Symbol (both fungible and non-fungible)."
+    symbol: "A representation of any kind of asset on Symbol (fungible or non-fungible)."
   multisig:
     symbol: "Multi-signature. A Symbol account requiring more than one signature to operate."
   nam:
@@ -123,7 +123,7 @@ terms: # Keep them sorted!
     crypto: "Symmetric External Diffie-Hellman"
   token:
     economy: "A voucher or gift card redeemable for items of value."
-    crypto: "Certain types of cryptocurrency, typically different from the main currency of a blockchain."
+    crypto: "A repressentation of a digital asset."
   tlc:
     internet: "Tender Loving Care"
   tps:
@@ -133,7 +133,7 @@ terms: # Keep them sorted!
   xem:
     symbol: "NEM’s NIS1 blockchain native currency"
   xym:
-    symbol: "NEM’s Symbol blockchain native currency"
+    symbol: "Symbol's native currency"
 ---
 
 <table>
