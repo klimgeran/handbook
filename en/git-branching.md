@@ -22,7 +22,7 @@ This branch follows the company's public **release schedule**. Everything on thi
 
 Official releases are marked either using **git tags** or **release branches**.
 
-When ready, the `dev` branch is merged into the `main` branch by the release manager.
+When ready, the `dev` branch is **merged** (without squashing) into the `main` branch by the release manager.
 
 ## dev branch
 
