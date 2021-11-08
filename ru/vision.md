@@ -1,6 +1,6 @@
 ---
-title: "Symbol²: Отражения космических пиратов"
-description: "Виденье блокчейна Symbol."
+title: "Symbol²: Отражение космических пиратов"
+description: "Наше видение Symbol."
 category: philosophy
 lang: ru
 ref: vision
